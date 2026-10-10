@@ -12,34 +12,25 @@
   ],
   "forecast": [
     {
-      "detailedForecast": "Cloudy, with a low around 45. Southwest wind around 5 mph.",
-      "endTime": "2026-10-10T06:00:00-07:00",
-      "name": "Overnight",
-      "shortForecast": "Cloudy",
-      "startTime": "2026-10-10T03:00:00-07:00",
-      "temperature": 45,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "A chance of rain showers after 5pm. Cloudy, with a high near 66. Southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible.",
       "endTime": "2026-10-10T18:00:00-07:00",
-      "name": "Saturday",
+      "name": "Today",
       "shortForecast": "Cloudy then Chance Rain Showers",
-      "startTime": "2026-10-10T06:00:00-07:00",
+      "startTime": "2026-10-10T08:00:00-07:00",
       "temperature": 66,
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Rain showers. Cloudy, with a low around 39. South wind 5 to 10 mph. Chance of precipitation is 80%. New rainfall amounts between 1 and 2 inches possible.",
+      "detailedForecast": "Rain showers. Cloudy, with a low around 39. Southeast wind 0 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 80%. New rainfall amounts between 1 and 2 inches possible.",
       "endTime": "2026-10-11T06:00:00-07:00",
-      "name": "Saturday Night",
+      "name": "Tonight",
       "shortForecast": "Rain Showers",
       "startTime": "2026-10-10T18:00:00-07:00",
       "temperature": 39,
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Rain showers likely. Mostly cloudy, with a high near 52. South wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 60%. New rainfall amounts between 1 and 2 inches possible.",
+      "detailedForecast": "Rain showers likely. Mostly cloudy, with a high near 52. Southwest wind 5 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 60%. New rainfall amounts between 1 and 2 inches possible.",
       "endTime": "2026-10-11T18:00:00-07:00",
       "name": "Sunday",
       "shortForecast": "Rain Showers Likely",
@@ -48,7 +39,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Rain showers. Mostly cloudy, with a low around 31. Southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible.",
+      "detailedForecast": "Rain showers. Mostly cloudy, with a low around 31. Southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible.",
       "endTime": "2026-10-12T06:00:00-07:00",
       "name": "Sunday Night",
       "shortForecast": "Rain Showers",
@@ -57,7 +48,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Rain showers before 5pm, then rain and snow showers likely. Mostly cloudy, with a high near 45. Chance of precipitation is 80%.",
+      "detailedForecast": "Rain showers before 5pm, then rain and snow showers likely. Mostly cloudy, with a high near 45. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible.",
       "endTime": "2026-10-12T18:00:00-07:00",
       "name": "Columbus Day",
       "shortForecast": "Rain Showers then Rain And Snow Showers Likely",
@@ -66,7 +57,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Rain and snow showers likely before 5am. Mostly cloudy, with a low around 26.",
+      "detailedForecast": "Rain and snow showers likely before 5am. Mostly cloudy, with a low around 26. Chance of precipitation is 60%.",
       "endTime": "2026-10-13T06:00:00-07:00",
       "name": "Monday Night",
       "shortForecast": "Rain And Snow Showers Likely",
@@ -136,15 +127,24 @@
       "startTime": "2026-10-16T06:00:00-07:00",
       "temperature": 64,
       "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Mostly clear, with a low around 38.",
+      "endTime": "2026-10-17T06:00:00-07:00",
+      "name": "Friday Night",
+      "shortForecast": "Mostly Clear",
+      "startTime": "2026-10-16T18:00:00-07:00",
+      "temperature": 38,
+      "temperatureUnit": "F"
     }
   ],
-  "forecast_updated_at": "2026-10-10T09:45:35+00:00",
+  "forecast_updated_at": "2026-10-10T14:57:23+00:00",
   "grid": {
     "probabilityOfPrecipitation": {
       "unit": "wmoUnit:percent",
       "values": [
         [
-          "2026-10-10T03:00:00+00:00/PT9H",
+          "2026-10-10T08:00:00+00:00/PT4H",
           1
         ],
         [
@@ -229,11 +229,7 @@
       "unit": "wmoUnit:mm",
       "values": [
         [
-          "2026-10-10T03:00:00+00:00/PT3H",
-          0
-        ],
-        [
-          "2026-10-10T06:00:00+00:00/PT6H",
+          "2026-10-10T08:00:00+00:00/PT4H",
           0
         ],
         [
@@ -366,11 +362,7 @@
       "unit": "wmoUnit:m",
       "values": [
         [
-          "2026-10-10T03:00:00+00:00/PT3H",
-          3418.0272
-        ],
-        [
-          "2026-10-10T06:00:00+00:00/PT3H",
+          "2026-10-10T08:00:00+00:00/PT1H",
           3366.8208
         ],
         [
@@ -607,11 +599,7 @@
       "unit": "wmoUnit:mm",
       "values": [
         [
-          "2026-10-10T03:00:00+00:00/PT3H",
-          0
-        ],
-        [
-          "2026-10-10T06:00:00+00:00/PT6H",
+          "2026-10-10T08:00:00+00:00/PT4H",
           0
         ],
         [
@@ -739,26 +727,6 @@
     "temperature": {
       "unit": "wmoUnit:degC",
       "values": [
-        [
-          "2026-10-10T03:00:00+00:00/PT1H",
-          12.777777777777779
-        ],
-        [
-          "2026-10-10T04:00:00+00:00/PT1H",
-          11.11111111111111
-        ],
-        [
-          "2026-10-10T05:00:00+00:00/PT1H",
-          10
-        ],
-        [
-          "2026-10-10T06:00:00+00:00/PT1H",
-          9.444444444444445
-        ],
-        [
-          "2026-10-10T07:00:00+00:00/PT1H",
-          8.88888888888889
-        ],
         [
           "2026-10-10T08:00:00+00:00/PT1H",
           8.333333333333334
@@ -1341,26 +1309,6 @@
       "unit": "wmoUnit:km_h-1",
       "values": [
         [
-          "2026-10-10T03:00:00+00:00/PT1H",
-          20.372
-        ],
-        [
-          "2026-10-10T04:00:00+00:00/PT1H",
-          18.52
-        ],
-        [
-          "2026-10-10T05:00:00+00:00/PT1H",
-          20.372
-        ],
-        [
-          "2026-10-10T06:00:00+00:00/PT1H",
-          22.224
-        ],
-        [
-          "2026-10-10T07:00:00+00:00/PT1H",
-          20.372
-        ],
-        [
           "2026-10-10T08:00:00+00:00/PT4H",
           18.52
         ],
@@ -1369,156 +1317,140 @@
           20.372
         ],
         [
-          "2026-10-10T13:00:00+00:00/PT2H",
+          "2026-10-10T13:00:00+00:00/PT1H",
           22.224
+        ],
+        [
+          "2026-10-10T14:00:00+00:00/PT1H",
+          24.076
         ],
         [
           "2026-10-10T15:00:00+00:00/PT1H",
-          24.076
+          27.78
         ],
         [
-          "2026-10-10T16:00:00+00:00/PT1H",
+          "2026-10-10T16:00:00+00:00/PT4H",
+          31.484
+        ],
+        [
+          "2026-10-10T20:00:00+00:00/PT2H",
+          29.632
+        ],
+        [
+          "2026-10-10T22:00:00+00:00/PT1H",
+          31.484
+        ],
+        [
+          "2026-10-10T23:00:00+00:00/PT2H",
           25.928
         ],
         [
-          "2026-10-10T17:00:00+00:00/PT2H",
-          27.78
-        ],
-        [
-          "2026-10-10T19:00:00+00:00/PT1H",
-          29.632
-        ],
-        [
-          "2026-10-10T20:00:00+00:00/PT1H",
-          31.484
-        ],
-        [
-          "2026-10-10T21:00:00+00:00/PT1H",
-          29.632
-        ],
-        [
-          "2026-10-10T22:00:00+00:00/PT2H",
-          31.484
-        ],
-        [
-          "2026-10-11T00:00:00+00:00/PT1H",
-          29.632
-        ],
-        [
           "2026-10-11T01:00:00+00:00/PT1H",
-          20.372
-        ],
-        [
-          "2026-10-11T02:00:00+00:00/PT1H",
-          22.224
-        ],
-        [
-          "2026-10-11T03:00:00+00:00/PT1H",
           18.52
+        ],
+        [
+          "2026-10-11T02:00:00+00:00/PT2H",
+          14.816
         ],
         [
           "2026-10-11T04:00:00+00:00/PT1H",
-          22.224
+          9.26
         ],
         [
           "2026-10-11T05:00:00+00:00/PT1H",
-          20.372
+          12.964
         ],
         [
-          "2026-10-11T06:00:00+00:00/PT4H",
-          16.668
+          "2026-10-11T06:00:00+00:00/PT1H",
+          22.224
+        ],
+        [
+          "2026-10-11T07:00:00+00:00/PT1H",
+          14.816
+        ],
+        [
+          "2026-10-11T08:00:00+00:00/PT1H",
+          22.224
+        ],
+        [
+          "2026-10-11T09:00:00+00:00/PT1H",
+          29.632
         ],
         [
           "2026-10-11T10:00:00+00:00/PT1H",
-          18.52
+          31.484
         ],
         [
-          "2026-10-11T11:00:00+00:00/PT1H",
-          20.372
-        ],
-        [
-          "2026-10-11T12:00:00+00:00/PT1H",
-          18.52
-        ],
-        [
-          "2026-10-11T13:00:00+00:00/PT1H",
-          24.076
-        ],
-        [
-          "2026-10-11T14:00:00+00:00/PT1H",
+          "2026-10-11T11:00:00+00:00/PT2H",
           27.78
         ],
         [
+          "2026-10-11T13:00:00+00:00/PT1H",
+          16.668
+        ],
+        [
+          "2026-10-11T14:00:00+00:00/PT1H",
+          33.336
+        ],
+        [
           "2026-10-11T15:00:00+00:00/PT1H",
-          35.188
-        ],
-        [
-          "2026-10-11T16:00:00+00:00/PT1H",
           42.596
         ],
         [
-          "2026-10-11T17:00:00+00:00/PT1H",
-          44.448
-        ],
-        [
-          "2026-10-11T18:00:00+00:00/PT1H",
-          48.152
-        ],
-        [
-          "2026-10-11T19:00:00+00:00/PT1H",
-          46.3
-        ],
-        [
-          "2026-10-11T20:00:00+00:00/PT1H",
-          42.596
-        ],
-        [
-          "2026-10-11T21:00:00+00:00/PT2H",
-          48.152
-        ],
-        [
-          "2026-10-11T23:00:00+00:00/PT1H",
+          "2026-10-11T16:00:00+00:00/PT2H",
           50.004
         ],
         [
-          "2026-10-12T00:00:00+00:00/PT1H",
-          44.448
-        ],
-        [
-          "2026-10-12T01:00:00+00:00/PT1H",
-          46.3
-        ],
-        [
-          "2026-10-12T02:00:00+00:00/PT1H",
+          "2026-10-11T18:00:00+00:00/PT2H",
           53.708
         ],
         [
-          "2026-10-12T03:00:00+00:00/PT1H",
-          46.3
+          "2026-10-11T20:00:00+00:00/PT1H",
+          51.856
         ],
         [
-          "2026-10-12T04:00:00+00:00/PT1H",
+          "2026-10-11T21:00:00+00:00/PT1H",
+          55.56
+        ],
+        [
+          "2026-10-11T22:00:00+00:00/PT1H",
+          57.412
+        ],
+        [
+          "2026-10-11T23:00:00+00:00/PT1H",
+          53.708
+        ],
+        [
+          "2026-10-12T00:00:00+00:00/PT1H",
+          48.152
+        ],
+        [
+          "2026-10-12T01:00:00+00:00/PT4H",
           44.448
         ],
         [
           "2026-10-12T05:00:00+00:00/PT1H",
+          42.596
+        ],
+        [
+          "2026-10-12T06:00:00+00:00/PT1H",
           40.744
         ],
         [
-          "2026-10-12T06:00:00+00:00/PT2H",
+          "2026-10-12T07:00:00+00:00/PT1H",
           37.04
         ],
         [
           "2026-10-12T08:00:00+00:00/PT1H",
-          38.892
+          42.596
         ],
         [
           "2026-10-12T09:00:00+00:00/PT1H",
-          40.744
+          44.448
         ],
         [
           "2026-10-12T10:00:00+00:00/PT2H",
-          42.596
+          48.152
         ],
         [
           "2026-10-12T12:00:00+00:00/PT2H",
@@ -1661,6 +1593,6 @@
   },
   "grid_elevation_m": 2122.0176,
   "grid_id": "SGX/77,79",
-  "grid_updated_at": "2026-10-10T09:45:35+00:00",
+  "grid_updated_at": "2026-10-10T14:57:23+00:00",
   "zone": "CAZ055"
 }
