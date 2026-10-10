@@ -289,6 +289,69 @@ def collect_nws(observed_at):
     return ', '.join(summary)
 
 
+# Resort operating status -----------------------------------------------------
+
+# Lift and trail status is rendered client-side from MtnPowder with the resort's
+# own bearer token, so it is not collected. The hours page is server-rendered and
+# covers Snow Summit, Snow Valley and Bear Mountain (snow-valley.com redirects here).
+RESORT_PAGES = {
+    'big-bear-mountain-resort': 'https://www.bigbearmountainresort.com/hours',
+}
+BLOCK_TAGS = {'p', 'br', 'div', 'li', 'tr', 'td', 'th', 'section', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6'}
+
+
+class MainText(HTMLParser):
+    """Text lines inside <main>, without scripts or hidden component markers."""
+
+    def __init__(self):
+        super().__init__()
+        self.depth, self.skip, self.lines, self.line = 0, 0, [], []
+
+    def handle_starttag(self, tag, attrs):
+        if tag == 'main':
+            self.depth += 1
+        elif self.depth and tag in ('script', 'style', 'noscript', 'var'):
+            self.skip += 1
+        elif tag in BLOCK_TAGS:
+            self.flush()
+
+    def handle_endtag(self, tag):
+        if tag == 'main' and self.depth:
+            self.flush()
+            self.depth -= 1
+        elif self.depth and tag in ('script', 'style', 'noscript', 'var') and self.skip:
+            self.skip -= 1
+        elif tag in BLOCK_TAGS:
+            self.flush()
+
+    def handle_data(self, data):
+        if self.depth and not self.skip:
+            self.line.append(data)
+
+    def flush(self):
+        text = ' '.join(''.join(self.line).split())
+        if text:
+            self.lines.append(text)
+        self.line = []
+
+
+def parse_main_text(page):
+    parser = MainText()
+    parser.feed(page)
+    return parser.lines
+
+
+def collect_resort_hours(observed_at):
+    summary = []
+    for slug, url in RESORT_PAGES.items():
+        lines = parse_main_text(fetch(url, 'text/html').decode('utf-8', 'replace'))
+        if not any('Snow Summit' in line for line in lines):
+            raise ValueError(f'{slug}: page layout changed, Snow Summit not found in <main>')
+        write_json(DATA / 'current' / 'resorts' / f'{slug}.json', {'url': url, 'lines': lines})
+        summary.append(f'{slug}: {len(lines)} lines')
+    return ', '.join(summary)
+
+
 # Run -------------------------------------------------------------------------
 
 SOURCES = {
@@ -296,6 +359,7 @@ SOURCES = {
     'lane_closures': collect_closures,
     'highway_text': collect_highway_text,
     'nws': collect_nws,
+    'resort_hours': collect_resort_hours,
 }
 
 

@@ -55,5 +55,14 @@ class HighwayText(unittest.TestCase):
         self.assertIsNone(routes['SR 2'][1]['area'])
 
 
+class ResortHours(unittest.TestCase):
+    def test_parse_main_only(self):
+        lines = collect.parse_main_text((FIXTURES / 'resort_hours.html').read_text())
+        self.assertEqual(lines[0], 'Hours of Operation')
+        self.assertIn('Snow Summit:Closed for summer operations as of Sunday, October 4.', lines)
+        self.assertNotIn('MTB Lift Tickets', lines)  # navigation is outside <main>
+        self.assertFalse(any('rich-text' in line for line in lines))  # hidden <var> markers
+
+
 if __name__ == '__main__':
     unittest.main()

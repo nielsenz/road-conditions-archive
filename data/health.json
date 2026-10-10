@@ -18,5 +18,10 @@
     "error": null,
     "ok": true,
     "since": "2026-10-10T04:17:28+00:00"
+  },
+  "resort_hours": {
+    "error": null,
+    "ok": true,
+    "since": "2026-10-10T04:27:41+00:00"
   }
 }
