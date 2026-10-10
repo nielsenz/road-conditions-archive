@@ -23,9 +23,9 @@
     {
       "detailedForecast": "A chance of rain showers after 5pm. Cloudy, with a high near 67. South wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible.",
       "endTime": "2026-10-10T18:00:00-07:00",
-      "name": "Today",
-      "shortForecast": "Cloudy then Chance Rain Showers",
-      "startTime": "2026-10-10T11:00:00-07:00",
+      "name": "This Afternoon",
+      "shortForecast": "Chance Rain Showers",
+      "startTime": "2026-10-10T15:00:00-07:00",
       "temperature": 67,
       "temperatureUnit": "F"
     },
@@ -147,13 +147,13 @@
       "temperatureUnit": "F"
     }
   ],
-  "forecast_updated_at": "2026-10-10T18:26:18+00:00",
+  "forecast_updated_at": "2026-10-10T20:55:52+00:00",
   "grid": {
     "probabilityOfPrecipitation": {
       "unit": "wmoUnit:percent",
       "values": [
         [
-          "2026-10-10T12:00:00+00:00/PT6H",
+          "2026-10-10T14:00:00+00:00/PT4H",
           4
         ],
         [
@@ -226,7 +226,7 @@
       "unit": "wmoUnit:mm",
       "values": [
         [
-          "2026-10-10T12:00:00+00:00/PT6H",
+          "2026-10-10T14:00:00+00:00/PT4H",
           0
         ],
         [
@@ -355,7 +355,7 @@
       "unit": "wmoUnit:m",
       "values": [
         [
-          "2026-10-10T12:00:00+00:00/PT3H",
+          "2026-10-10T14:00:00+00:00/PT1H",
           3594.8112
         ],
         [
@@ -584,7 +584,7 @@
       "unit": "wmoUnit:mm",
       "values": [
         [
-          "2026-10-10T12:00:00+00:00/PT6H",
+          "2026-10-10T14:00:00+00:00/PT4H",
           0
         ],
         [
@@ -709,7 +709,7 @@
       "unit": "wmoUnit:degC",
       "values": [
         [
-          "2026-10-10T12:00:00+00:00/PT3H",
+          "2026-10-10T14:00:00+00:00/PT1H",
           15
         ],
         [
@@ -1126,10 +1126,6 @@
       "unit": "wmoUnit:km_h-1",
       "values": [
         [
-          "2026-10-10T12:00:00+00:00/PT2H",
-          24.076
-        ],
-        [
           "2026-10-10T14:00:00+00:00/PT2H",
           25.928
         ],
@@ -1426,6 +1422,6 @@
   },
   "grid_elevation_m": 1665.1224,
   "grid_id": "SGX/67,81",
-  "grid_updated_at": "2026-10-10T18:26:18+00:00",
+  "grid_updated_at": "2026-10-10T20:55:52+00:00",
   "zone": "CAZ055"
 }
