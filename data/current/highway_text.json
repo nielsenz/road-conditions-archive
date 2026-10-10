@@ -1,0 +1,72 @@
+{
+  "routes": {
+    "SR 138": [
+      {
+        "area": "IN THE SOUTHERN CALIFORNIA AREA",
+        "text": "No traffic restrictions are reported for this area."
+      }
+    ],
+    "SR 173": [
+      {
+        "area": "IN THE SOUTHERN CALIFORNIA AREA",
+        "text": "1-way controlled traffic at various locations from 4.1 mi west of Lake Elsinore /at Arbon Ln/ to 2.9 mi west of Lake Elsinore /at Yosemite Dr/ (San Bernardino Co) from 0900 hrs to 1400 hrs Monday thru Friday thru 10/9/26 - Due to maintenance"
+      }
+    ],
+    "SR 18": [
+      {
+        "area": "IN THE SOUTHERN CALIFORNIA AREA",
+        "text": "1-way controlled traffic at various locations from Arrowbear Dr to the Jct of SR 38 /in Big Bear Lake/ (San Bernardino Co) from 0700 hrs to 1500 hrs Monday thru Friday thru 10/9/26 - Due to construction"
+      },
+      {
+        "area": null,
+        "text": "1-way controlled traffic at various locations from Cactus Rd to Cushenbury Creek /in Doble/ (San Bernardino Co) from 0845 hrs to 1500 hrs Monday thru Friday thru 10/9/26 - Due to construction"
+      }
+    ],
+    "SR 189": [
+      {
+        "area": "IN THE SOUTHERN CALIFORNIA AREA",
+        "text": "No traffic restrictions are reported for this area."
+      }
+    ],
+    "SR 2": [
+      {
+        "area": "IN THE SOUTHERN CALIFORNIA AREA",
+        "text": "Is closed from 3.3 mi east of Newcomb's Ranch to Islip Saddle (Los Angeles Co) - Due to emergency repairs - Motorists are advised to use an alternate route"
+      },
+      {
+        "area": null,
+        "text": "Is closed from Islip Saddle to 5.4 mi west of Big Pines /at Vincent Gulch/ (Los Angeles Co) - Due to emergency repairs - Motorists are advised to use an alternate route"
+      },
+      {
+        "area": null,
+        "text": "Westbound traffic is reduced to 2 lanes from the Jct of I 405 to Bundy Dr /in Los Angeles/ (Los Angeles Co) 24 hrs a day 7 days a week - Due to construction"
+      },
+      {
+        "area": null,
+        "text": "All tractor-semi trailer combinations with 3 axles or greater are prohibited from the Jct of I 210 /in La Canada-Flintridge/ to the Angeles Forest Highway (Los Angeles Co) - Alternate routes are available"
+      }
+    ],
+    "SR 330": [
+      {
+        "area": "IN THE SOUTHERN CALIFORNIA AREA",
+        "text": "No traffic restrictions are reported for this area."
+      }
+    ],
+    "SR 38": [
+      {
+        "area": "IN THE SOUTHERN CALIFORNIA AREA",
+        "text": "1-way controlled traffic at various locations from the Jct of I 10 to 6th St /in Redlands/ (San Bernardino Co) from 0700 hrs to 1530 hrs Monday thru Friday thru 10/9/26 - Due to construction"
+      },
+      {
+        "area": null,
+        "text": "1-way controlled traffic at various locations from Ward Way to Julian Dr /in Redlands/ (San Bernardino Co) from 0900 hrs to 1500 hrs Monday thru Friday thru 10/9/26 - Due to construction"
+      }
+    ],
+    "SR 39": [
+      {
+        "area": "IN THE SOUTHERN CALIFORNIA AREA",
+        "text": "Is closed from 2 mi north of Crystal Lake Rd to the Jct of SR 2 (Los Angeles Co) 24 hours a day 7 days a week - Due to construction - Motorists are advised to use an alternate route"
+      }
+    ]
+  }
+}

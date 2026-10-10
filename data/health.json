@@ -1,0 +1,22 @@
+{
+  "chain_control": {
+    "error": null,
+    "ok": true,
+    "since": "2026-10-10T04:17:28+00:00"
+  },
+  "highway_text": {
+    "error": null,
+    "ok": true,
+    "since": "2026-10-10T04:17:28+00:00"
+  },
+  "lane_closures": {
+    "error": null,
+    "ok": true,
+    "since": "2026-10-10T04:17:28+00:00"
+  },
+  "nws": {
+    "error": null,
+    "ok": true,
+    "since": "2026-10-10T04:17:28+00:00"
+  }
+}

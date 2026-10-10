@@ -1,0 +1,289 @@
+{
+ "data": [
+  {
+   "lcs": {
+    "index": "C18CA-0001-2026-10-12-08:01:00",
+    "recordTimestamp": {
+     "recordDate": "2026-10-09",
+     "recordTime": "21:03:03",
+     "recordEpoch": "1791604983"
+    },
+    "location": {
+     "travelFlowDirection": "South",
+     "begin": {
+      "beginDistrict": "8",
+      "beginLocationName": "Arrowbear Dr",
+      "beginFreeFormDescription": "",
+      "beginNearbyPlace": "Running Springs",
+      "beginLongitude": "-117.078802",
+      "beginLatitude": "34.213821",
+      "beginElevation": "6151",
+      "beginDirection": "",
+      "beginCounty": "San Bernardino",
+      "beginRoute": "SR-18",
+      "beginRouteSuffix": "",
+      "beginPostmilePrefix": "",
+      "beginPostmile": "34.028",
+      "beginAlignment": "",
+      "beginMilepost": "27.702"
+     },
+     "end": {
+      "endDistrict": "8",
+      "endLocationName": "Running Springs School Rd",
+      "endFreeFormDescription": "",
+      "endNearbyPlace": "Running Springs",
+      "endLongitude": "-117.093543",
+      "endLatitude": "34.203049",
+      "endElevation": "6122",
+      "endDirection": "",
+      "endCounty": "San Bernardino",
+      "endRoute": "SR-18",
+      "endRouteSuffix": "",
+      "endPostmilePrefix": "",
+      "endPostmile": "32.569",
+      "endAlignment": "",
+      "endMilepost": "26.243"
+     }
+    },
+    "closure": {
+     "closureID": "C18CA",
+     "logNumber": "1",
+     "closureTimestamp": {
+      "closureRequestDate": "2026-10-06",
+      "closureRequestTime": "09:07:41",
+      "closureRequestEpoch": "1791302861",
+      "closureStartDate": "2026-10-12",
+      "closureStartTime": "08:01:00",
+      "closureStartEpoch": "1791817260",
+      "closureEndDate": "2026-10-12",
+      "closureEndTime": "15:59:00",
+      "closureEndEpoch": "1791845940",
+      "isClosureEndIndefinite": "false"
+     },
+     "facility": "Conventional Hwy",
+     "typeOfClosure": "One-Way Traffic",
+     "typeOfWork": "Striping Operation",
+     "durationOfClosure": "Standard",
+     "estimatedDelay": "Not Reported",
+     "lanesClosed": "1",
+     "totalExistingLanes": "1",
+     "isCHINReportable": "true",
+     "code1097": {
+      "isCode1097": "false",
+      "code1097Timestamp": {
+       "code1097Date": "",
+       "code1097Time": "",
+       "code1097Epoch": ""
+      }
+     },
+     "code1098": {
+      "isCode1098": "false",
+      "code1098Timestamp": {
+       "code1098Date": "",
+       "code1098Time": "",
+       "code1098Epoch": ""
+      }
+     },
+     "code1022": {
+      "isCode1022": "false",
+      "code1022Timestamp": {
+       "code1022Date": "",
+       "code1022Time": "",
+       "code1022Epoch": ""
+      }
+     }
+    }
+   }
+  },
+  {
+   "lcs": {
+    "index": "C18CA-0002-2026-10-13-08:01:00",
+    "recordTimestamp": {
+     "recordDate": "2026-10-09",
+     "recordTime": "21:03:03",
+     "recordEpoch": "1791604983"
+    },
+    "location": {
+     "travelFlowDirection": "South",
+     "begin": {
+      "beginDistrict": "8",
+      "beginLocationName": "Arrowbear Dr",
+      "beginFreeFormDescription": "",
+      "beginNearbyPlace": "Running Springs",
+      "beginLongitude": "-117.078802",
+      "beginLatitude": "34.213821",
+      "beginElevation": "6151",
+      "beginDirection": "",
+      "beginCounty": "San Bernardino",
+      "beginRoute": "SR-18",
+      "beginRouteSuffix": "",
+      "beginPostmilePrefix": "",
+      "beginPostmile": "34.028",
+      "beginAlignment": "",
+      "beginMilepost": "27.702"
+     },
+     "end": {
+      "endDistrict": "8",
+      "endLocationName": "Running Springs School Rd",
+      "endFreeFormDescription": "",
+      "endNearbyPlace": "Running Springs",
+      "endLongitude": "-117.093543",
+      "endLatitude": "34.203049",
+      "endElevation": "6122",
+      "endDirection": "",
+      "endCounty": "San Bernardino",
+      "endRoute": "SR-18",
+      "endRouteSuffix": "",
+      "endPostmilePrefix": "",
+      "endPostmile": "32.569",
+      "endAlignment": "",
+      "endMilepost": "26.243"
+     }
+    },
+    "closure": {
+     "closureID": "C18CA",
+     "logNumber": "2",
+     "closureTimestamp": {
+      "closureRequestDate": "2026-10-06",
+      "closureRequestTime": "09:07:41",
+      "closureRequestEpoch": "1791302861",
+      "closureStartDate": "2026-10-13",
+      "closureStartTime": "08:01:00",
+      "closureStartEpoch": "1791903660",
+      "closureEndDate": "2026-10-13",
+      "closureEndTime": "15:59:00",
+      "closureEndEpoch": "1791932340",
+      "isClosureEndIndefinite": "false"
+     },
+     "facility": "Conventional Hwy",
+     "typeOfClosure": "One-Way Traffic",
+     "typeOfWork": "Striping Operation",
+     "durationOfClosure": "Standard",
+     "estimatedDelay": "Not Reported",
+     "lanesClosed": "1",
+     "totalExistingLanes": "1",
+     "isCHINReportable": "true",
+     "code1097": {
+      "isCode1097": "false",
+      "code1097Timestamp": {
+       "code1097Date": "",
+       "code1097Time": "",
+       "code1097Epoch": ""
+      }
+     },
+     "code1098": {
+      "isCode1098": "false",
+      "code1098Timestamp": {
+       "code1098Date": "",
+       "code1098Time": "",
+       "code1098Epoch": ""
+      }
+     },
+     "code1022": {
+      "isCode1022": "false",
+      "code1022Timestamp": {
+       "code1022Date": "",
+       "code1022Time": "",
+       "code1022Epoch": ""
+      }
+     }
+    }
+   }
+  },
+  {
+   "lcs": {
+    "index": "C10AB-0001-2026-10-14-21:01:00",
+    "recordTimestamp": {
+     "recordDate": "2026-10-09",
+     "recordTime": "21:03:03",
+     "recordEpoch": "1791604983"
+    },
+    "location": {
+     "travelFlowDirection": "West",
+     "begin": {
+      "beginDistrict": "8",
+      "beginLocationName": "Route 10",
+      "beginFreeFormDescription": "",
+      "beginNearbyPlace": "Colton",
+      "beginLongitude": "-117.320451",
+      "beginLatitude": "34.065555",
+      "beginElevation": "984",
+      "beginDirection": "West",
+      "beginCounty": "San Bernardino",
+      "beginRoute": "I-10",
+      "beginRouteSuffix": "",
+      "beginPostmilePrefix": "R",
+      "beginPostmile": "22.859",
+      "beginAlignment": "",
+      "beginMilepost": "69.631"
+     },
+     "end": {
+      "endDistrict": "8",
+      "endLocationName": "Pavillion Spur R/R Oh",
+      "endFreeFormDescription": "",
+      "endNearbyPlace": "Colton",
+      "endLongitude": "-117.320451",
+      "endLatitude": "34.065555",
+      "endElevation": "984",
+      "endDirection": "",
+      "endCounty": "San Bernardino",
+      "endRoute": "I-10",
+      "endRouteSuffix": "",
+      "endPostmilePrefix": "R",
+      "endPostmile": "22.859",
+      "endAlignment": "",
+      "endMilepost": "69.631"
+     }
+    },
+    "closure": {
+     "closureID": "C10AB",
+     "logNumber": "1",
+     "closureTimestamp": {
+      "closureRequestDate": "2026-10-08",
+      "closureRequestTime": "09:30:47",
+      "closureRequestEpoch": "1791477047",
+      "closureStartDate": "2026-10-14",
+      "closureStartTime": "21:01:00",
+      "closureStartEpoch": "1792036860",
+      "closureEndDate": "2026-10-15",
+      "closureEndTime": "06:59:00",
+      "closureEndEpoch": "1792072740",
+      "isClosureEndIndefinite": "false"
+     },
+     "facility": "Off Ramp",
+     "typeOfClosure": "Full",
+     "typeOfWork": "Bridge Work",
+     "durationOfClosure": "Standard",
+     "estimatedDelay": "Not Reported",
+     "lanesClosed": "All",
+     "totalExistingLanes": "1",
+     "isCHINReportable": "false",
+     "code1097": {
+      "isCode1097": "false",
+      "code1097Timestamp": {
+       "code1097Date": "",
+       "code1097Time": "",
+       "code1097Epoch": ""
+      }
+     },
+     "code1098": {
+      "isCode1098": "false",
+      "code1098Timestamp": {
+       "code1098Date": "",
+       "code1098Time": "",
+       "code1098Epoch": ""
+      }
+     },
+     "code1022": {
+      "isCode1022": "false",
+      "code1022Timestamp": {
+       "code1022Date": "",
+       "code1022Time": "",
+       "code1022Epoch": ""
+      }
+     }
+    }
+   }
+  }
+ ]
+}
