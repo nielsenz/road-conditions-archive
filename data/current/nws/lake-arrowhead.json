@@ -2,20 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Rain showers likely. Mostly cloudy, with a high near 47. South wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible.",
-      "endTime": "2026-10-12T18:00:00-07:00",
-      "name": "Columbus Day",
-      "shortForecast": "Rain Showers Likely",
-      "startTime": "2026-10-12T16:00:00-07:00",
-      "temperature": 47,
-      "temperatureUnit": "F"
-    },
-    {
-      "detailedForecast": "A chance of rain showers before 11pm. Mostly cloudy, with a low around 37. South wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible.",
+      "detailedForecast": "A chance of rain showers before 11pm. Mostly cloudy, with a low around 37. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible.",
       "endTime": "2026-10-13T06:00:00-07:00",
       "name": "Tonight",
       "shortForecast": "Chance Rain Showers then Mostly Cloudy",
-      "startTime": "2026-10-12T18:00:00-07:00",
+      "startTime": "2026-10-12T22:00:00-07:00",
       "temperature": 37,
       "temperatureUnit": "F"
     },
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Clear, with a low around 47.",
+      "detailedForecast": "Clear, with a low around 47. Northeast wind 5 to 15 mph, with gusts as high as 30 mph.",
       "endTime": "2026-10-15T06:00:00-07:00",
       "name": "Wednesday Night",
       "shortForecast": "Clear",
@@ -125,6 +116,15 @@
       "shortForecast": "Clear",
       "startTime": "2026-10-18T18:00:00-07:00",
       "temperature": 51,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Sunny, with a high near 63.",
+      "endTime": "2026-10-19T18:00:00-07:00",
+      "name": "Monday",
+      "shortForecast": "Sunny",
+      "startTime": "2026-10-19T06:00:00-07:00",
+      "temperature": 63,
       "temperatureUnit": "F"
     }
   ],
