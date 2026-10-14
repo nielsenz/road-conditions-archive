@@ -3,20 +3,20 @@
     {
       "ends": "2026-10-16T20:00:00-07:00",
       "event": "High Wind Watch",
-      "expires": "2026-10-13T22:00:00-07:00",
-      "headline": "High Wind Watch issued October 13 at 11:11AM PDT until October 16 at 8:00PM PDT by NWS San Diego CA",
-      "id": "urn:oid:2.49.0.1.840.0.c2f237643f9830256cce367afe0e39c336727474.004.1",
+      "expires": "2026-10-14T06:15:00-07:00",
+      "headline": "High Wind Watch issued October 13 at 9:25PM PDT until October 16 at 8:00PM PDT by NWS San Diego CA",
+      "id": "urn:oid:2.49.0.1.840.0.eb785efe2567ec1934e6ef3b909ca3beaca06abf.004.1",
       "onset": "2026-10-15T06:00:00-07:00",
       "severity": "Severe"
     }
   ],
   "forecast": [
     {
-      "detailedForecast": "Clear, with a low around 29. Northeast wind 5 to 10 mph, with gusts as high as 20 mph.",
+      "detailedForecast": "Clear, with a low around 29. Northeast wind around 10 mph, with gusts as high as 20 mph.",
       "endTime": "2026-10-14T06:00:00-07:00",
       "name": "Tonight",
       "shortForecast": "Clear",
-      "startTime": "2026-10-13T18:00:00-07:00",
+      "startTime": "2026-10-13T22:00:00-07:00",
       "temperature": 29,
       "temperatureUnit": "F"
     },
