@@ -3,29 +3,20 @@
     {
       "ends": "2026-10-16T20:00:00-07:00",
       "event": "High Wind Warning",
-      "expires": "2026-10-14T22:45:00-07:00",
-      "headline": "High Wind Warning issued October 14 at 11:16AM PDT until October 16 at 8:00PM PDT by NWS San Diego CA",
-      "id": "urn:oid:2.49.0.1.840.0.7d9a4c908a3292a686b4eea8f4447ed2b98d1881.003.2",
+      "expires": "2026-10-15T07:00:00-07:00",
+      "headline": "High Wind Warning issued October 14 at 6:39PM PDT until October 16 at 8:00PM PDT by NWS San Diego CA",
+      "id": "urn:oid:2.49.0.1.840.0.334bf9cc176b9ad9f3fddb5327fe4eff3afc9edd.002.1",
       "onset": "2026-10-15T06:00:00-07:00",
       "severity": "Severe"
     }
   ],
   "forecast": [
     {
-      "detailedForecast": "Sunny, with a high near 63. North wind around 10 mph.",
-      "endTime": "2026-10-14T18:00:00-07:00",
-      "name": "This Afternoon",
-      "shortForecast": "Sunny",
-      "startTime": "2026-10-14T17:00:00-07:00",
-      "temperature": 63,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "Clear, with a low around 48. Northeast wind 10 to 15 mph, with gusts as high as 30 mph.",
       "endTime": "2026-10-15T06:00:00-07:00",
       "name": "Tonight",
       "shortForecast": "Clear",
-      "startTime": "2026-10-14T18:00:00-07:00",
+      "startTime": "2026-10-14T21:00:00-07:00",
       "temperature": 48,
       "temperatureUnit": "F"
     },
@@ -57,7 +48,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Mostly clear, with a low around 52.",
+      "detailedForecast": "Mostly clear, with a low around 52. Northeast wind 10 to 15 mph, with gusts as high as 25 mph.",
       "endTime": "2026-10-17T06:00:00-07:00",
       "name": "Friday Night",
       "shortForecast": "Mostly Clear",
@@ -135,6 +126,15 @@
       "shortForecast": "Chance Rain Showers",
       "startTime": "2026-10-20T18:00:00-07:00",
       "temperature": 41,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 48.",
+      "endTime": "2026-10-21T18:00:00-07:00",
+      "name": "Wednesday",
+      "shortForecast": "Chance Rain Showers",
+      "startTime": "2026-10-21T06:00:00-07:00",
+      "temperature": 48,
       "temperatureUnit": "F"
     }
   ],
