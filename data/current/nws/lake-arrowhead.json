@@ -12,11 +12,11 @@
   ],
   "forecast": [
     {
-      "detailedForecast": "Sunny, with a high near 62. Northeast wind 20 to 25 mph, with gusts as high as 45 mph.",
+      "detailedForecast": "Sunny, with a high near 62. Northeast wind around 25 mph, with gusts as high as 45 mph.",
       "endTime": "2026-10-15T18:00:00-07:00",
       "name": "Today",
       "shortForecast": "Sunny",
-      "startTime": "2026-10-15T06:00:00-07:00",
+      "startTime": "2026-10-15T11:00:00-07:00",
       "temperature": 62,
       "temperatureUnit": "F"
     },
