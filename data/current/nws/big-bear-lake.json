@@ -3,10 +3,10 @@
     {
       "ends": "2026-10-16T20:00:00-07:00",
       "event": "High Wind Warning",
-      "expires": "2026-10-15T17:00:00-07:00",
-      "headline": "High Wind Warning issued October 15 at 5:33AM PDT until October 16 at 8:00PM PDT by NWS San Diego CA",
-      "id": "urn:oid:2.49.0.1.840.0.9412c17c12857fee4a7d8817640126c6a98e4b10.002.1",
-      "onset": "2026-10-15T06:00:00-07:00",
+      "expires": "2026-10-16T04:00:00-07:00",
+      "headline": "High Wind Warning issued October 15 at 1:39PM PDT until October 16 at 8:00PM PDT by NWS San Diego CA",
+      "id": "urn:oid:2.49.0.1.840.0.1c6e911c7732926a2f38301c722c5482a4d878ed.002.1",
+      "onset": "2026-10-15T13:39:00-07:00",
       "severity": "Severe"
     }
   ],
