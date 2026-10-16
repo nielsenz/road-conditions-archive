@@ -12,15 +12,6 @@
   ],
   "forecast": [
     {
-      "detailedForecast": "Sunny, with a high near 57. Northeast wind around 20 mph, with gusts as high as 35 mph.",
-      "endTime": "2026-10-15T18:00:00-07:00",
-      "name": "This Afternoon",
-      "shortForecast": "Sunny",
-      "startTime": "2026-10-15T16:00:00-07:00",
-      "temperature": 57,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "Mostly clear, with a low around 40. Northeast wind 15 to 25 mph, with gusts as high as 40 mph.",
       "endTime": "2026-10-16T06:00:00-07:00",
       "name": "Tonight",
@@ -57,7 +48,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Mostly clear, with a low around 39.",
+      "detailedForecast": "Mostly clear, with a low around 39. East wind 0 to 10 mph.",
       "endTime": "2026-10-18T06:00:00-07:00",
       "name": "Saturday Night",
       "shortForecast": "Mostly Clear",
@@ -135,6 +126,15 @@
       "shortForecast": "Chance Rain And Snow Showers",
       "startTime": "2026-10-21T18:00:00-07:00",
       "temperature": 30,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "A chance of rain and snow showers before 5pm. Mostly sunny, with a high near 47. New snow accumulation of less than half an inch possible.",
+      "endTime": "2026-10-22T18:00:00-07:00",
+      "name": "Thursday",
+      "shortForecast": "Chance Rain And Snow Showers",
+      "startTime": "2026-10-22T06:00:00-07:00",
+      "temperature": 47,
       "temperatureUnit": "F"
     }
   ],
