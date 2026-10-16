@@ -3,36 +3,27 @@
     {
       "ends": "2026-10-16T20:00:00-07:00",
       "event": "High Wind Warning",
-      "expires": "2026-10-16T04:00:00-07:00",
-      "headline": "High Wind Warning issued October 15 at 1:39PM PDT until October 16 at 8:00PM PDT by NWS San Diego CA",
-      "id": "urn:oid:2.49.0.1.840.0.1c6e911c7732926a2f38301c722c5482a4d878ed.002.1",
-      "onset": "2026-10-15T13:39:00-07:00",
+      "expires": "2026-10-16T17:00:00-07:00",
+      "headline": "High Wind Warning issued October 16 at 5:10AM PDT until October 16 at 8:00PM PDT by NWS San Diego CA",
+      "id": "urn:oid:2.49.0.1.840.0.1b02d92e569e9016a6d47c63b60c7b867a73a5ee.003.1",
+      "onset": "2026-10-16T05:10:00-07:00",
       "severity": "Severe"
     }
   ],
   "forecast": [
     {
-      "detailedForecast": "Clear, with a low around 50. Northeast wind 20 to 25 mph, with gusts as high as 40 mph.",
-      "endTime": "2026-10-16T06:00:00-07:00",
-      "name": "Overnight",
-      "shortForecast": "Clear",
-      "startTime": "2026-10-16T01:00:00-07:00",
-      "temperature": 50,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "Sunny, with a high near 67. Northeast wind around 20 mph, with gusts as high as 35 mph.",
       "endTime": "2026-10-16T18:00:00-07:00",
-      "name": "Friday",
+      "name": "Today",
       "shortForecast": "Sunny",
-      "startTime": "2026-10-16T06:00:00-07:00",
+      "startTime": "2026-10-16T07:00:00-07:00",
       "temperature": 67,
       "temperatureUnit": "F"
     },
     {
       "detailedForecast": "Mostly clear, with a low around 51. East wind 15 to 20 mph, with gusts as high as 35 mph.",
       "endTime": "2026-10-17T06:00:00-07:00",
-      "name": "Friday Night",
+      "name": "Tonight",
       "shortForecast": "Mostly Clear",
       "startTime": "2026-10-16T18:00:00-07:00",
       "temperature": 51,
@@ -57,7 +48,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Sunny, with a high near 62.",
+      "detailedForecast": "Sunny, with a high near 62. North wind 0 to 5 mph.",
       "endTime": "2026-10-18T18:00:00-07:00",
       "name": "Sunday",
       "shortForecast": "Sunny",
@@ -135,6 +126,15 @@
       "shortForecast": "Chance Rain Showers",
       "startTime": "2026-10-22T06:00:00-07:00",
       "temperature": 47,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "A slight chance of rain showers before 11pm. Mostly clear, with a low around 39.",
+      "endTime": "2026-10-23T06:00:00-07:00",
+      "name": "Thursday Night",
+      "shortForecast": "Slight Chance Rain Showers then Mostly Clear",
+      "startTime": "2026-10-22T18:00:00-07:00",
+      "temperature": 39,
       "temperatureUnit": "F"
     }
   ],
