@@ -12,11 +12,11 @@
   ],
   "forecast": [
     {
-      "detailedForecast": "Sunny, with a high near 61. East wind 20 to 25 mph, with gusts as high as 35 mph.",
+      "detailedForecast": "Sunny, with a high near 61. East wind around 20 mph, with gusts as high as 35 mph.",
       "endTime": "2026-10-16T18:00:00-07:00",
       "name": "Today",
       "shortForecast": "Sunny",
-      "startTime": "2026-10-16T08:00:00-07:00",
+      "startTime": "2026-10-16T11:00:00-07:00",
       "temperature": 61,
       "temperatureUnit": "F"
     },
