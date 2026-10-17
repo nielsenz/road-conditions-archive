@@ -1,31 +1,12 @@
 {
-  "alerts": [
-    {
-      "ends": "2026-10-16T20:00:00-07:00",
-      "event": "High Wind Warning",
-      "expires": "2026-10-16T20:00:00-07:00",
-      "headline": "High Wind Warning issued October 16 at 12:54PM PDT until October 16 at 8:00PM PDT by NWS San Diego CA",
-      "id": "urn:oid:2.49.0.1.840.0.3dc9ccd8816fe622ed015ec17fc7661c92aea043.003.1",
-      "onset": "2026-10-16T12:54:00-07:00",
-      "severity": "Severe"
-    }
-  ],
+  "alerts": [],
   "forecast": [
-    {
-      "detailedForecast": "Mostly sunny, with a high near 61. East wind around 20 mph, with gusts as high as 35 mph.",
-      "endTime": "2026-10-16T18:00:00-07:00",
-      "name": "This Afternoon",
-      "shortForecast": "Mostly Sunny",
-      "startTime": "2026-10-16T16:00:00-07:00",
-      "temperature": 61,
-      "temperatureUnit": "F"
-    },
     {
       "detailedForecast": "Mostly clear, with a low around 41. East wind 10 to 20 mph, with gusts as high as 30 mph.",
       "endTime": "2026-10-17T06:00:00-07:00",
       "name": "Tonight",
       "shortForecast": "Mostly Clear",
-      "startTime": "2026-10-16T18:00:00-07:00",
+      "startTime": "2026-10-16T21:00:00-07:00",
       "temperature": 41,
       "temperatureUnit": "F"
     },
@@ -57,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Mostly clear, with a low around 39.",
+      "detailedForecast": "Mostly clear, with a low around 39. Southeast wind around 0 mph.",
       "endTime": "2026-10-19T06:00:00-07:00",
       "name": "Sunday Night",
       "shortForecast": "Mostly Clear",
@@ -135,6 +116,15 @@
       "shortForecast": "Slight Chance Rain Showers then Partly Cloudy",
       "startTime": "2026-10-22T18:00:00-07:00",
       "temperature": 31,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "A slight chance of rain showers between 11am and 5pm. Sunny, with a high near 49.",
+      "endTime": "2026-10-23T18:00:00-07:00",
+      "name": "Friday",
+      "shortForecast": "Slight Chance Rain Showers",
+      "startTime": "2026-10-23T06:00:00-07:00",
+      "temperature": 49,
       "temperatureUnit": "F"
     }
   ],
