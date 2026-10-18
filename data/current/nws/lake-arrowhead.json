@@ -2,20 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Partly sunny, with a high near 64. South wind 0 to 5 mph.",
-      "endTime": "2026-10-17T18:00:00-07:00",
-      "name": "This Afternoon",
-      "shortForecast": "Partly Sunny",
-      "startTime": "2026-10-17T16:00:00-07:00",
-      "temperature": 64,
-      "temperatureUnit": "F"
-    },
-    {
-      "detailedForecast": "Partly cloudy, with a low around 48. East wind 0 to 5 mph.",
+      "detailedForecast": "Partly cloudy, with a low around 48. Northeast wind 0 to 5 mph.",
       "endTime": "2026-10-18T06:00:00-07:00",
       "name": "Tonight",
       "shortForecast": "Partly Cloudy",
-      "startTime": "2026-10-17T18:00:00-07:00",
+      "startTime": "2026-10-17T21:00:00-07:00",
       "temperature": 48,
       "temperatureUnit": "F"
     },
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Mostly clear, with a low around 46.",
+      "detailedForecast": "Mostly clear, with a low around 46. South wind around 5 mph.",
       "endTime": "2026-10-20T06:00:00-07:00",
       "name": "Monday Night",
       "shortForecast": "Mostly Clear",
@@ -125,6 +116,15 @@
       "shortForecast": "Mostly Clear",
       "startTime": "2026-10-23T18:00:00-07:00",
       "temperature": 41,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Sunny, with a high near 52.",
+      "endTime": "2026-10-24T18:00:00-07:00",
+      "name": "Saturday",
+      "shortForecast": "Sunny",
+      "startTime": "2026-10-24T06:00:00-07:00",
+      "temperature": 52,
       "temperatureUnit": "F"
     }
   ],

@@ -2,20 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Mostly cloudy, with a high near 60. East wind 10 to 15 mph, with gusts as high as 25 mph.",
-      "endTime": "2026-10-17T18:00:00-07:00",
-      "name": "This Afternoon",
-      "shortForecast": "Mostly Cloudy",
-      "startTime": "2026-10-17T14:00:00-07:00",
-      "temperature": 60,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "Partly cloudy, with a low around 38. East wind around 5 mph.",
       "endTime": "2026-10-18T06:00:00-07:00",
       "name": "Tonight",
       "shortForecast": "Partly Cloudy",
-      "startTime": "2026-10-17T18:00:00-07:00",
+      "startTime": "2026-10-17T21:00:00-07:00",
       "temperature": 38,
       "temperatureUnit": "F"
     },
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Mostly clear, with a low around 37.",
+      "detailedForecast": "Mostly clear, with a low around 37. Southwest wind 0 to 5 mph.",
       "endTime": "2026-10-20T06:00:00-07:00",
       "name": "Monday Night",
       "shortForecast": "Mostly Clear",
@@ -125,6 +116,15 @@
       "shortForecast": "Mostly Clear",
       "startTime": "2026-10-23T18:00:00-07:00",
       "temperature": 33,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Sunny, with a high near 52.",
+      "endTime": "2026-10-24T18:00:00-07:00",
+      "name": "Saturday",
+      "shortForecast": "Sunny",
+      "startTime": "2026-10-24T06:00:00-07:00",
+      "temperature": 52,
       "temperatureUnit": "F"
     }
   ],
