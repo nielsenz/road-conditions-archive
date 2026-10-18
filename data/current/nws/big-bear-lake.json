@@ -2,11 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Sunny, with a high near 61. East wind 0 to 5 mph.",
+      "detailedForecast": "Sunny, with a high near 61. East wind around 0 mph.",
       "endTime": "2026-10-18T18:00:00-07:00",
       "name": "This Afternoon",
       "shortForecast": "Sunny",
-      "startTime": "2026-10-18T14:00:00-07:00",
+      "startTime": "2026-10-18T16:00:00-07:00",
       "temperature": 61,
       "temperatureUnit": "F"
     },
@@ -134,7 +134,7 @@
       "unit": "wmoUnit:percent",
       "values": [
         [
-          "2026-10-18T12:00:00+00:00/PT6H",
+          "2026-10-18T14:00:00+00:00/PT4H",
           1
         ],
         [
@@ -227,7 +227,7 @@
       "unit": "wmoUnit:mm",
       "values": [
         [
-          "2026-10-18T12:00:00+00:00/PT6H",
+          "2026-10-18T14:00:00+00:00/PT4H",
           0
         ],
         [
@@ -356,7 +356,7 @@
       "unit": "wmoUnit:m",
       "values": [
         [
-          "2026-10-18T12:00:00+00:00/PT3H",
+          "2026-10-18T14:00:00+00:00/PT1H",
           3240.024
         ],
         [
@@ -589,7 +589,7 @@
       "unit": "wmoUnit:mm",
       "values": [
         [
-          "2026-10-18T12:00:00+00:00/PT6H",
+          "2026-10-18T14:00:00+00:00/PT4H",
           0
         ],
         [
@@ -713,14 +713,6 @@
     "temperature": {
       "unit": "wmoUnit:degC",
       "values": [
-        [
-          "2026-10-18T12:00:00+00:00/PT1H",
-          2.7777777777777777
-        ],
-        [
-          "2026-10-18T13:00:00+00:00/PT1H",
-          2.2222222222222223
-        ],
         [
           "2026-10-18T14:00:00+00:00/PT1H",
           2.7777777777777777
@@ -1303,7 +1295,7 @@
       "unit": "wmoUnit:km_h-1",
       "values": [
         [
-          "2026-10-18T12:00:00+00:00/PT4H",
+          "2026-10-18T14:00:00+00:00/PT2H",
           18.52
         ],
         [
@@ -1575,6 +1567,6 @@
   },
   "grid_elevation_m": 2122.0176,
   "grid_id": "SGX/77,79",
-  "grid_updated_at": "2026-10-18T18:17:26+00:00",
+  "grid_updated_at": "2026-10-18T20:11:39+00:00",
   "zone": "CAZ055"
 }
