@@ -4,9 +4,9 @@
     {
       "detailedForecast": "Sunny, with a high near 61. East wind 0 to 5 mph.",
       "endTime": "2026-10-18T18:00:00-07:00",
-      "name": "Today",
+      "name": "This Afternoon",
       "shortForecast": "Sunny",
-      "startTime": "2026-10-18T11:00:00-07:00",
+      "startTime": "2026-10-18T14:00:00-07:00",
       "temperature": 61,
       "temperatureUnit": "F"
     },
@@ -128,7 +128,7 @@
       "temperatureUnit": "F"
     }
   ],
-  "forecast_updated_at": "2026-10-18T18:17:26+00:00",
+  "forecast_updated_at": "2026-10-18T20:11:39+00:00",
   "grid": {
     "probabilityOfPrecipitation": {
       "unit": "wmoUnit:percent",
