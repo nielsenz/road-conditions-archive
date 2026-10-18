@@ -2,27 +2,18 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Mostly clear, with a low around 38. East wind 0 to 5 mph.",
-      "endTime": "2026-10-18T06:00:00-07:00",
-      "name": "Overnight",
-      "shortForecast": "Mostly Clear",
-      "startTime": "2026-10-18T00:00:00-07:00",
-      "temperature": 38,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "Sunny, with a high near 61. Northeast wind 0 to 10 mph.",
       "endTime": "2026-10-18T18:00:00-07:00",
-      "name": "Sunday",
+      "name": "Today",
       "shortForecast": "Sunny",
-      "startTime": "2026-10-18T06:00:00-07:00",
+      "startTime": "2026-10-18T09:00:00-07:00",
       "temperature": 61,
       "temperatureUnit": "F"
     },
     {
       "detailedForecast": "Mostly clear, with a low around 39. South wind around 0 mph.",
       "endTime": "2026-10-19T06:00:00-07:00",
-      "name": "Sunday Night",
+      "name": "Tonight",
       "shortForecast": "Mostly Clear",
       "startTime": "2026-10-18T18:00:00-07:00",
       "temperature": 39,
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Sunny, with a high near 59.",
+      "detailedForecast": "Sunny, with a high near 59. South wind 5 to 10 mph.",
       "endTime": "2026-10-20T18:00:00-07:00",
       "name": "Tuesday",
       "shortForecast": "Sunny",
@@ -56,7 +47,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "A chance of rain showers after 5am. Partly cloudy, with a low around 37.",
+      "detailedForecast": "A chance of rain showers after 5am. Partly cloudy, with a low around 37. Chance of precipitation is 30%.",
       "endTime": "2026-10-21T06:00:00-07:00",
       "name": "Tuesday Night",
       "shortForecast": "Partly Cloudy then Chance Rain Showers",
@@ -125,6 +116,15 @@
       "shortForecast": "Sunny",
       "startTime": "2026-10-24T06:00:00-07:00",
       "temperature": 53,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Mostly clear, with a low around 32.",
+      "endTime": "2026-10-25T06:00:00-07:00",
+      "name": "Saturday Night",
+      "shortForecast": "Mostly Clear",
+      "startTime": "2026-10-24T18:00:00-07:00",
+      "temperature": 32,
       "temperatureUnit": "F"
     }
   ],
