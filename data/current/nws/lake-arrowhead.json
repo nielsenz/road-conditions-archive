@@ -2,20 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Sunny, with a high near 63. South wind around 5 mph.",
-      "endTime": "2026-10-19T18:00:00-07:00",
-      "name": "This Afternoon",
-      "shortForecast": "Sunny",
-      "startTime": "2026-10-19T16:00:00-07:00",
-      "temperature": 63,
-      "temperatureUnit": "F"
-    },
-    {
-      "detailedForecast": "Clear, with a low around 48. South wind around 5 mph.",
+      "detailedForecast": "Mostly clear, with a low around 48. South wind around 5 mph.",
       "endTime": "2026-10-20T06:00:00-07:00",
       "name": "Tonight",
-      "shortForecast": "Clear",
-      "startTime": "2026-10-19T18:00:00-07:00",
+      "shortForecast": "Mostly Clear",
+      "startTime": "2026-10-19T23:00:00-07:00",
       "temperature": 48,
       "temperatureUnit": "F"
     },
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Rain showers before 5am, then showers and thunderstorms. Mostly cloudy, with a low around 41. Chance of precipitation is 80%.",
+      "detailedForecast": "Rain showers before 5am, then showers and thunderstorms. Mostly cloudy, with a low around 41. South wind 5 to 10 mph. Chance of precipitation is 80%. New rainfall amounts between three quarters and one inch possible.",
       "endTime": "2026-10-22T06:00:00-07:00",
       "name": "Wednesday Night",
       "shortForecast": "Rain Showers",
@@ -56,7 +47,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Showers and thunderstorms. Partly sunny, with a high near 47.",
+      "detailedForecast": "Showers and thunderstorms. Partly sunny, with a high near 47. Chance of precipitation is 80%.",
       "endTime": "2026-10-22T18:00:00-07:00",
       "name": "Thursday",
       "shortForecast": "Showers And Thunderstorms",
@@ -125,6 +116,15 @@
       "shortForecast": "Partly Cloudy",
       "startTime": "2026-10-25T18:00:00-07:00",
       "temperature": 44,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Mostly sunny, with a high near 55.",
+      "endTime": "2026-10-26T18:00:00-07:00",
+      "name": "Monday",
+      "shortForecast": "Mostly Sunny",
+      "startTime": "2026-10-26T06:00:00-07:00",
+      "temperature": 55,
       "temperatureUnit": "F"
     }
   ],
