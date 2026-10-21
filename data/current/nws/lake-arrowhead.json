@@ -2,11 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Mostly clear, with a low around 47. South wind 5 to 10 mph.",
+      "detailedForecast": "Mostly clear, with a low around 47. South wind around 5 mph.",
       "endTime": "2026-10-21T06:00:00-07:00",
       "name": "Tonight",
       "shortForecast": "Mostly Clear",
-      "startTime": "2026-10-20T18:00:00-07:00",
+      "startTime": "2026-10-20T22:00:00-07:00",
       "temperature": 47,
       "temperatureUnit": "F"
     },
