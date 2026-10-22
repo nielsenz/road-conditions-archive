@@ -12,11 +12,11 @@
   ],
   "forecast": [
     {
-      "detailedForecast": "Showers and thunderstorms likely. Cloudy, with a high near 46. South wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible.",
+      "detailedForecast": "Rain showers likely. Cloudy, with a high near 46. South wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible.",
       "endTime": "2026-10-22T18:00:00-07:00",
       "name": "This Afternoon",
-      "shortForecast": "Showers And Thunderstorms Likely",
-      "startTime": "2026-10-22T12:00:00-07:00",
+      "shortForecast": "Rain Showers Likely",
+      "startTime": "2026-10-22T16:00:00-07:00",
       "temperature": 46,
       "temperatureUnit": "F"
     },
