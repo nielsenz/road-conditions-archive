@@ -3,27 +3,18 @@
     {
       "ends": "2026-10-22T18:00:00-07:00",
       "event": "Wind Advisory",
-      "expires": "2026-10-22T06:00:00-07:00",
-      "headline": "Wind Advisory issued October 22 at 12:14AM PDT until October 22 at 6:00PM PDT by NWS San Diego CA",
-      "id": "urn:oid:2.49.0.1.840.0.ebf52f6f51ca6559a80cf6a9f8b61f10c1fdd7da.002.1",
-      "onset": "2026-10-22T00:14:00-07:00",
+      "expires": "2026-10-22T15:30:00-07:00",
+      "headline": "Wind Advisory issued October 22 at 5:53AM PDT until October 22 at 6:00PM PDT by NWS San Diego CA",
+      "id": "urn:oid:2.49.0.1.840.0.85bf61484c10936eed60fe802dc9a6ea6f9df701.001.2",
+      "onset": "2026-10-22T06:00:00-07:00",
       "severity": "Moderate"
     }
   ],
   "forecast": [
     {
-      "detailedForecast": "Showers and thunderstorms. Mostly cloudy, with a low around 37. Southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible.",
-      "endTime": "2026-10-22T06:00:00-07:00",
-      "name": "Overnight",
-      "shortForecast": "Showers And Thunderstorms",
-      "startTime": "2026-10-22T03:00:00-07:00",
-      "temperature": 37,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "A chance of rain showers before 11am, then showers and thunderstorms. Mostly cloudy, with a high near 44. Southwest wind 10 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible.",
       "endTime": "2026-10-22T18:00:00-07:00",
-      "name": "Thursday",
+      "name": "Today",
       "shortForecast": "Showers And Thunderstorms",
       "startTime": "2026-10-22T06:00:00-07:00",
       "temperature": 44,
@@ -32,7 +23,7 @@
     {
       "detailedForecast": "A slight chance of rain showers before 11pm. Mostly cloudy, with a low around 33. Southwest wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
       "endTime": "2026-10-23T06:00:00-07:00",
-      "name": "Thursday Night",
+      "name": "Tonight",
       "shortForecast": "Slight Chance Rain Showers then Mostly Cloudy",
       "startTime": "2026-10-22T18:00:00-07:00",
       "temperature": 33,
@@ -57,7 +48,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Sunny, with a high near 54.",
+      "detailedForecast": "Sunny, with a high near 54. North wind 0 to 5 mph.",
       "endTime": "2026-10-24T18:00:00-07:00",
       "name": "Saturday",
       "shortForecast": "Sunny",
@@ -135,6 +126,15 @@
       "shortForecast": "Mostly Sunny",
       "startTime": "2026-10-28T06:00:00-07:00",
       "temperature": 59,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Partly cloudy, with a low around 34.",
+      "endTime": "2026-10-29T06:00:00-07:00",
+      "name": "Wednesday Night",
+      "shortForecast": "Partly Cloudy",
+      "startTime": "2026-10-28T18:00:00-07:00",
+      "temperature": 34,
       "temperatureUnit": "F"
     }
   ],
