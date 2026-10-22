@@ -2,15 +2,6 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Rain showers likely. Mostly cloudy, with a high near 58. South wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible.",
-      "endTime": "2026-10-21T18:00:00-07:00",
-      "name": "This Afternoon",
-      "shortForecast": "Rain Showers Likely",
-      "startTime": "2026-10-21T16:00:00-07:00",
-      "temperature": 58,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "Rain showers likely before 11pm, then showers and thunderstorms. Cloudy, with a low around 45. South wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible.",
       "endTime": "2026-10-22T06:00:00-07:00",
       "name": "Tonight",
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Mostly clear, with a low around 40.",
+      "detailedForecast": "Mostly clear, with a low around 40. Northeast wind 0 to 10 mph.",
       "endTime": "2026-10-24T06:00:00-07:00",
       "name": "Friday Night",
       "shortForecast": "Mostly Clear",
@@ -125,6 +116,15 @@
       "shortForecast": "Partly Cloudy",
       "startTime": "2026-10-27T18:00:00-07:00",
       "temperature": 45,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Mostly sunny, with a high near 58.",
+      "endTime": "2026-10-28T18:00:00-07:00",
+      "name": "Wednesday",
+      "shortForecast": "Mostly Sunny",
+      "startTime": "2026-10-28T06:00:00-07:00",
+      "temperature": 58,
       "temperatureUnit": "F"
     }
   ],
