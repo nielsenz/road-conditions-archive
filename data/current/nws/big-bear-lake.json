@@ -1,12 +1,22 @@
 {
-  "alerts": [],
+  "alerts": [
+    {
+      "ends": "2026-10-22T06:00:00-07:00",
+      "event": "Wind Advisory",
+      "expires": "2026-10-22T06:00:00-07:00",
+      "headline": "Wind Advisory issued October 21 at 10:30PM PDT until October 22 at 6:00AM PDT by NWS San Diego CA",
+      "id": "urn:oid:2.49.0.1.840.0.b84a83bbcf4283d67b945ca65646965d752ecdbc.001.1",
+      "onset": "2026-10-21T22:30:00-07:00",
+      "severity": "Moderate"
+    }
+  ],
   "forecast": [
     {
-      "detailedForecast": "A chance of rain showers before 11pm, then showers and thunderstorms. Cloudy, with a low around 37. Southwest wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible.",
+      "detailedForecast": "A chance of rain showers before 11pm, then showers and thunderstorms. Cloudy, with a low around 37. Southwest wind 5 to 10 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible.",
       "endTime": "2026-10-22T06:00:00-07:00",
       "name": "Tonight",
       "shortForecast": "Showers And Thunderstorms",
-      "startTime": "2026-10-21T18:00:00-07:00",
+      "startTime": "2026-10-21T19:00:00-07:00",
       "temperature": 37,
       "temperatureUnit": "F"
     },
