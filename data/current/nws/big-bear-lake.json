@@ -2,27 +2,18 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "A slight chance of rain showers before 11pm. Partly cloudy, with a low around 30. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
-      "endTime": "2026-10-23T06:00:00-07:00",
-      "name": "Tonight",
-      "shortForecast": "Slight Chance Rain Showers then Partly Cloudy",
-      "startTime": "2026-10-22T21:00:00-07:00",
-      "temperature": 30,
-      "temperatureUnit": "F"
-    },
-    {
-      "detailedForecast": "A slight chance of rain showers after 11am. Partly sunny, with a high near 49. West wind around 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
+      "detailedForecast": "A slight chance of rain showers after 11am. Partly sunny, with a high near 49. Northwest wind around 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
       "endTime": "2026-10-23T18:00:00-07:00",
-      "name": "Friday",
+      "name": "Today",
       "shortForecast": "Slight Chance Rain Showers",
-      "startTime": "2026-10-23T06:00:00-07:00",
+      "startTime": "2026-10-23T10:00:00-07:00",
       "temperature": 49,
       "temperatureUnit": "F"
     },
     {
       "detailedForecast": "A slight chance of rain showers before 11pm. Partly cloudy, with a low around 32. Northeast wind 5 to 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
       "endTime": "2026-10-24T06:00:00-07:00",
-      "name": "Friday Night",
+      "name": "Tonight",
       "shortForecast": "Slight Chance Rain Showers then Partly Cloudy",
       "startTime": "2026-10-23T18:00:00-07:00",
       "temperature": 32,
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Sunny, with a high near 57.",
+      "detailedForecast": "Sunny, with a high near 57. South wind around 0 mph.",
       "endTime": "2026-10-25T18:00:00-07:00",
       "name": "Sunday",
       "shortForecast": "Sunny",
@@ -125,6 +116,15 @@
       "shortForecast": "Mostly Sunny",
       "startTime": "2026-10-29T06:00:00-07:00",
       "temperature": 55,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Partly cloudy, with a low around 33.",
+      "endTime": "2026-10-30T06:00:00-07:00",
+      "name": "Thursday Night",
+      "shortForecast": "Partly Cloudy",
+      "startTime": "2026-10-29T18:00:00-07:00",
+      "temperature": 33,
       "temperatureUnit": "F"
     }
   ],
