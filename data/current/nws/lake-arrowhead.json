@@ -2,11 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "A slight chance of rain showers before 11pm. Mostly cloudy, with a low around 38. South wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
+      "detailedForecast": "Mostly cloudy, with a low around 38. South wind around 10 mph.",
       "endTime": "2026-10-23T06:00:00-07:00",
-      "name": "Tonight",
-      "shortForecast": "Slight Chance Rain Showers then Mostly Cloudy",
-      "startTime": "2026-10-22T21:00:00-07:00",
+      "name": "Overnight",
+      "shortForecast": "Mostly Cloudy",
+      "startTime": "2026-10-23T05:00:00-07:00",
       "temperature": 38,
       "temperatureUnit": "F"
     },

@@ -2,11 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "A slight chance of rain showers before 11pm. Partly cloudy, with a low around 30. Southwest wind 5 to 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
+      "detailedForecast": "A slight chance of rain showers before 11pm. Partly cloudy, with a low around 30. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
       "endTime": "2026-10-23T06:00:00-07:00",
       "name": "Tonight",
       "shortForecast": "Slight Chance Rain Showers then Partly Cloudy",
-      "startTime": "2026-10-22T22:00:00-07:00",
+      "startTime": "2026-10-22T21:00:00-07:00",
       "temperature": 30,
       "temperatureUnit": "F"
     },
