@@ -2,11 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Sunny, with a high near 58. Southeast wind 0 to 10 mph.",
+      "detailedForecast": "Sunny, with a high near 58. South wind 0 to 10 mph.",
       "endTime": "2026-10-25T18:00:00-07:00",
       "name": "Today",
       "shortForecast": "Sunny",
-      "startTime": "2026-10-25T06:00:00-07:00",
+      "startTime": "2026-10-25T07:00:00-07:00",
       "temperature": 58,
       "temperatureUnit": "F"
     },
