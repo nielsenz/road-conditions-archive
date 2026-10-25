@@ -2,15 +2,6 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Sunny, with a high near 53. North wind around 5 mph.",
-      "endTime": "2026-10-24T18:00:00-07:00",
-      "name": "This Afternoon",
-      "shortForecast": "Sunny",
-      "startTime": "2026-10-24T17:00:00-07:00",
-      "temperature": 53,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "Mostly clear, with a low around 33. East wind 0 to 5 mph.",
       "endTime": "2026-10-25T06:00:00-07:00",
       "name": "Tonight",
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Clear, with a low around 37.",
+      "detailedForecast": "Clear, with a low around 37. Southwest wind 0 to 5 mph.",
       "endTime": "2026-10-27T06:00:00-07:00",
       "name": "Monday Night",
       "shortForecast": "Clear",
@@ -125,6 +116,15 @@
       "shortForecast": "Chance Rain And Snow Showers",
       "startTime": "2026-10-30T18:00:00-07:00",
       "temperature": 32,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "A chance of snow showers before 11am, then a chance of rain and snow showers. Partly sunny, with a high near 46.",
+      "endTime": "2026-10-31T18:00:00-07:00",
+      "name": "Saturday",
+      "shortForecast": "Chance Snow Showers",
+      "startTime": "2026-10-31T06:00:00-07:00",
+      "temperature": 46,
       "temperatureUnit": "F"
     }
   ],
