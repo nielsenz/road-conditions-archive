@@ -2,20 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Sunny, with a high near 59. Southwest wind around 0 mph.",
-      "endTime": "2026-10-25T18:00:00-07:00",
-      "name": "This Afternoon",
-      "shortForecast": "Sunny",
-      "startTime": "2026-10-25T12:00:00-07:00",
-      "temperature": 59,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "Mostly clear, with a low around 30. South wind around 0 mph.",
       "endTime": "2026-10-26T06:00:00-07:00",
       "name": "Tonight",
       "shortForecast": "Mostly Clear",
-      "startTime": "2026-10-25T18:00:00-07:00",
+      "startTime": "2026-10-25T21:00:00-07:00",
       "temperature": 30,
       "temperatureUnit": "F"
     },
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Partly cloudy, with a low around 36.",
+      "detailedForecast": "Partly cloudy, with a low around 36. Southwest wind 0 to 5 mph.",
       "endTime": "2026-10-28T06:00:00-07:00",
       "name": "Tuesday Night",
       "shortForecast": "Partly Cloudy",
@@ -125,6 +116,15 @@
       "shortForecast": "Rain And Snow Showers",
       "startTime": "2026-10-31T18:00:00-07:00",
       "temperature": 32,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Rain and snow showers. Mostly cloudy, with a high near 42. New snow accumulation of around one inch possible.",
+      "endTime": "2026-11-01T18:00:00-08:00",
+      "name": "Sunday",
+      "shortForecast": "Rain And Snow Showers",
+      "startTime": "2026-11-01T06:00:00-08:00",
+      "temperature": 42,
       "temperatureUnit": "F"
     }
   ],
