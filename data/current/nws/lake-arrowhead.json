@@ -2,11 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Sunny, with a high near 58. South wind 5 to 10 mph.",
+      "detailedForecast": "Sunny, with a high near 58. South wind around 5 mph.",
       "endTime": "2026-10-26T18:00:00-07:00",
       "name": "This Afternoon",
       "shortForecast": "Sunny",
-      "startTime": "2026-10-26T14:00:00-07:00",
+      "startTime": "2026-10-26T17:00:00-07:00",
       "temperature": 58,
       "temperatureUnit": "F"
     },
