@@ -2,20 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Sunny, with a high near 58. South wind around 5 mph.",
-      "endTime": "2026-10-26T18:00:00-07:00",
-      "name": "This Afternoon",
-      "shortForecast": "Sunny",
-      "startTime": "2026-10-26T17:00:00-07:00",
-      "temperature": 58,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "Clear, with a low around 43. South wind 5 to 10 mph.",
       "endTime": "2026-10-27T06:00:00-07:00",
       "name": "Tonight",
       "shortForecast": "Clear",
-      "startTime": "2026-10-26T18:00:00-07:00",
+      "startTime": "2026-10-26T22:00:00-07:00",
       "temperature": 43,
       "temperatureUnit": "F"
     },
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Mostly cloudy, with a low around 44.",
+      "detailedForecast": "Mostly cloudy, with a low around 44. Southeast wind 0 to 5 mph.",
       "endTime": "2026-10-29T06:00:00-07:00",
       "name": "Wednesday Night",
       "shortForecast": "Mostly Cloudy",
@@ -125,6 +116,15 @@
       "shortForecast": "Chance Rain Showers",
       "startTime": "2026-11-01T18:00:00-08:00",
       "temperature": 38,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "A slight chance of rain showers before 4pm. Mostly sunny, with a high near 46.",
+      "endTime": "2026-11-02T18:00:00-08:00",
+      "name": "Monday",
+      "shortForecast": "Slight Chance Rain Showers",
+      "startTime": "2026-11-02T06:00:00-08:00",
+      "temperature": 46,
       "temperatureUnit": "F"
     }
   ],
