@@ -2,27 +2,18 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Clear, with a low around 37. Southwest wind around 5 mph.",
-      "endTime": "2026-10-27T06:00:00-07:00",
-      "name": "Overnight",
-      "shortForecast": "Clear",
-      "startTime": "2026-10-27T03:00:00-07:00",
-      "temperature": 37,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "Sunny, with a high near 60. Southwest wind 5 to 10 mph, with gusts as high as 20 mph.",
       "endTime": "2026-10-27T18:00:00-07:00",
-      "name": "Tuesday",
+      "name": "Today",
       "shortForecast": "Sunny",
-      "startTime": "2026-10-27T06:00:00-07:00",
+      "startTime": "2026-10-27T08:00:00-07:00",
       "temperature": 60,
       "temperatureUnit": "F"
     },
     {
       "detailedForecast": "Partly cloudy, with a low around 36. Southwest wind 5 to 10 mph.",
       "endTime": "2026-10-28T06:00:00-07:00",
-      "name": "Tuesday Night",
+      "name": "Tonight",
       "shortForecast": "Partly Cloudy",
       "startTime": "2026-10-27T18:00:00-07:00",
       "temperature": 36,
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Partly sunny, with a high near 58.",
+      "detailedForecast": "Partly sunny, with a high near 58. South wind 0 to 5 mph.",
       "endTime": "2026-10-29T18:00:00-07:00",
       "name": "Thursday",
       "shortForecast": "Partly Sunny",
@@ -125,6 +116,15 @@
       "shortForecast": "Sunny",
       "startTime": "2026-11-02T06:00:00-08:00",
       "temperature": 49,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Partly cloudy, with a low around 32.",
+      "endTime": "2026-11-03T06:00:00-08:00",
+      "name": "Monday Night",
+      "shortForecast": "Partly Cloudy",
+      "startTime": "2026-11-02T18:00:00-08:00",
+      "temperature": 32,
       "temperatureUnit": "F"
     }
   ],
