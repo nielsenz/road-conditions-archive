@@ -2,27 +2,18 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Mostly cloudy, with a low around 39. Southwest wind 0 to 5 mph.",
-      "endTime": "2026-10-29T06:00:00-07:00",
-      "name": "Tonight",
-      "shortForecast": "Mostly Cloudy",
-      "startTime": "2026-10-28T23:00:00-07:00",
-      "temperature": 39,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "Partly sunny, with a high near 59. Southwest wind 0 to 10 mph.",
       "endTime": "2026-10-29T18:00:00-07:00",
-      "name": "Thursday",
+      "name": "Today",
       "shortForecast": "Partly Sunny",
-      "startTime": "2026-10-29T06:00:00-07:00",
+      "startTime": "2026-10-29T07:00:00-07:00",
       "temperature": 59,
       "temperatureUnit": "F"
     },
     {
       "detailedForecast": "Mostly cloudy, with a low around 41. South wind 5 to 10 mph.",
       "endTime": "2026-10-30T06:00:00-07:00",
-      "name": "Thursday Night",
+      "name": "Tonight",
       "shortForecast": "Mostly Cloudy",
       "startTime": "2026-10-29T18:00:00-07:00",
       "temperature": 41,
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Rain showers likely after 11am. Mostly cloudy, with a high near 52. Chance of precipitation is 70%.",
+      "detailedForecast": "Rain showers likely after 11am. Mostly cloudy, with a high near 52. Southwest wind 0 to 5 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible.",
       "endTime": "2026-10-31T18:00:00-07:00",
       "name": "Saturday",
       "shortForecast": "Rain Showers Likely",
@@ -56,7 +47,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Rain showers. Cloudy, with a low around 35.",
+      "detailedForecast": "Rain showers. Cloudy, with a low around 35. Chance of precipitation is 80%.",
       "endTime": "2026-11-01T06:00:00-08:00",
       "name": "Saturday Night",
       "shortForecast": "Rain Showers",
@@ -126,15 +117,24 @@
       "startTime": "2026-11-04T06:00:00-08:00",
       "temperature": 54,
       "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Mostly clear, with a low around 33.",
+      "endTime": "2026-11-05T06:00:00-08:00",
+      "name": "Wednesday Night",
+      "shortForecast": "Mostly Clear",
+      "startTime": "2026-11-04T18:00:00-08:00",
+      "temperature": 33,
+      "temperatureUnit": "F"
     }
   ],
-  "forecast_updated_at": "2026-10-29T06:28:31+00:00",
+  "forecast_updated_at": "2026-10-29T07:10:36+00:00",
   "grid": {
     "probabilityOfPrecipitation": {
       "unit": "wmoUnit:percent",
       "values": [
         [
-          "2026-10-29T00:00:00+00:00/PT18H",
+          "2026-10-29T01:00:00+00:00/PT17H",
           0
         ],
         [
@@ -231,7 +231,7 @@
       "unit": "wmoUnit:mm",
       "values": [
         [
-          "2026-10-29T00:00:00+00:00/PT6H",
+          "2026-10-29T01:00:00+00:00/PT5H",
           0
         ],
         [
@@ -368,7 +368,7 @@
       "unit": "wmoUnit:m",
       "values": [
         [
-          "2026-10-29T00:00:00+00:00/PT3H",
+          "2026-10-29T01:00:00+00:00/PT2H",
           2551.7856
         ],
         [
@@ -609,7 +609,7 @@
       "unit": "wmoUnit:mm",
       "values": [
         [
-          "2026-10-29T00:00:00+00:00/PT6H",
+          "2026-10-29T01:00:00+00:00/PT5H",
           0
         ],
         [
@@ -741,10 +741,6 @@
     "temperature": {
       "unit": "wmoUnit:degC",
       "values": [
-        [
-          "2026-10-29T00:00:00+00:00/PT1H",
-          12.777777777777779
-        ],
         [
           "2026-10-29T01:00:00+00:00/PT1H",
           9.444444444444445
@@ -1307,10 +1303,6 @@
       "unit": "wmoUnit:km_h-1",
       "values": [
         [
-          "2026-10-29T00:00:00+00:00/PT1H",
-          9.26
-        ],
-        [
           "2026-10-29T01:00:00+00:00/PT2H",
           0
         ],
@@ -1643,6 +1635,6 @@
   },
   "grid_elevation_m": 2122.0176,
   "grid_id": "SGX/77,79",
-  "grid_updated_at": "2026-10-29T06:28:31+00:00",
+  "grid_updated_at": "2026-10-29T07:10:36+00:00",
   "zone": "CAZ055"
 }
