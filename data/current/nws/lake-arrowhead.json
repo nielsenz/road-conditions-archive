@@ -2,20 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Partly sunny, with a high near 54. South wind 5 to 15 mph.",
-      "endTime": "2026-10-29T18:00:00-07:00",
-      "name": "This Afternoon",
-      "shortForecast": "Partly Sunny",
-      "startTime": "2026-10-29T16:00:00-07:00",
-      "temperature": 54,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "A chance of rain showers after 11pm. Cloudy, with a low around 45. South wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",
       "endTime": "2026-10-30T06:00:00-07:00",
       "name": "Tonight",
       "shortForecast": "Chance Rain Showers",
-      "startTime": "2026-10-29T18:00:00-07:00",
+      "startTime": "2026-10-29T19:00:00-07:00",
       "temperature": 45,
       "temperatureUnit": "F"
     },
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Rain showers. Cloudy, with a low around 44. Chance of precipitation is 90%.",
+      "detailedForecast": "Rain showers. Cloudy, with a low around 44. Southwest wind 0 to 5 mph. Chance of precipitation is 90%. New rainfall amounts between three quarters and one inch possible.",
       "endTime": "2026-11-01T06:00:00-08:00",
       "name": "Saturday Night",
       "shortForecast": "Rain Showers",
@@ -56,7 +47,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Rain showers. Mostly cloudy, with a high near 47.",
+      "detailedForecast": "Rain showers. Mostly cloudy, with a high near 47. Chance of precipitation is 80%.",
       "endTime": "2026-11-01T18:00:00-08:00",
       "name": "Sunday",
       "shortForecast": "Rain Showers",
@@ -125,6 +116,15 @@
       "shortForecast": "Mostly Clear",
       "startTime": "2026-11-04T18:00:00-08:00",
       "temperature": 41,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Sunny, with a high near 50.",
+      "endTime": "2026-11-05T18:00:00-08:00",
+      "name": "Thursday",
+      "shortForecast": "Sunny",
+      "startTime": "2026-11-05T06:00:00-08:00",
+      "temperature": 50,
       "temperatureUnit": "F"
     }
   ],
