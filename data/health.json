@@ -15,9 +15,9 @@
     "since": "2026-10-10T04:17:28+00:00"
   },
   "nws": {
-    "error": "HTTPError: HTTP Error 503: Service Unavailable",
-    "ok": false,
-    "since": "2026-10-31T11:06:08+00:00"
+    "error": null,
+    "ok": true,
+    "since": "2026-10-31T16:02:16+00:00"
   },
   "resort_hours": {
     "error": null,
