@@ -2,11 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Patchy fog before 5pm, then rain showers and patchy fog. Mostly cloudy, with a high near 52. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible.",
+      "detailedForecast": "Patchy fog before 5pm, then rain showers and patchy fog. Cloudy, with a high near 52. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible.",
       "endTime": "2026-10-31T18:00:00-07:00",
-      "name": "Today",
-      "shortForecast": "Patchy Fog then Rain Showers",
-      "startTime": "2026-10-31T09:00:00-07:00",
+      "name": "This Afternoon",
+      "shortForecast": "Rain Showers",
+      "startTime": "2026-10-31T12:00:00-07:00",
       "temperature": 52,
       "temperatureUnit": "F"
     },
