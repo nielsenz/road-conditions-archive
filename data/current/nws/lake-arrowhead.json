@@ -2,11 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Rain showers likely. Mostly cloudy, with a high near 48. South wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible.",
+      "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 48. South wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",
       "endTime": "2026-10-30T18:00:00-07:00",
       "name": "This Afternoon",
-      "shortForecast": "Rain Showers Likely",
-      "startTime": "2026-10-30T13:00:00-07:00",
+      "shortForecast": "Chance Rain Showers",
+      "startTime": "2026-10-30T17:00:00-07:00",
       "temperature": 48,
       "temperatureUnit": "F"
     },
