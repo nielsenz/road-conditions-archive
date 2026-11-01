@@ -2,11 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 46. Southwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible.",
+      "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 46. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible.",
       "endTime": "2026-11-01T18:00:00-08:00",
-      "name": "Today",
+      "name": "This Afternoon",
       "shortForecast": "Chance Rain Showers",
-      "startTime": "2026-11-01T11:00:00-08:00",
+      "startTime": "2026-11-01T15:00:00-08:00",
       "temperature": 46,
       "temperatureUnit": "F"
     },
