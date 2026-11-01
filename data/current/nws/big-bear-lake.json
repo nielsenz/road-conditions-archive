@@ -2,16 +2,7 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Rain. Cloudy, with a high near 52. Southwest wind 5 to 10 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible.",
-      "endTime": "2026-10-31T18:00:00-07:00",
-      "name": "This Afternoon",
-      "shortForecast": "Light Rain",
-      "startTime": "2026-10-31T14:00:00-07:00",
-      "temperature": 52,
-      "temperatureUnit": "F"
-    },
-    {
-      "detailedForecast": "Rain. Cloudy, with a low around 34. South wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible.",
+      "detailedForecast": "Rain. Cloudy, with a low around 34. South wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible.",
       "endTime": "2026-11-01T06:00:00-08:00",
       "name": "Tonight",
       "shortForecast": "Light Rain",
@@ -20,7 +11,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Rain before 10am, then rain showers likely. Mostly cloudy, with a high near 47. Southwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible.",
+      "detailedForecast": "Rain before 10am, then rain showers likely. Mostly cloudy, with a high near 47. Southwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible.",
       "endTime": "2026-11-01T18:00:00-08:00",
       "name": "Sunday",
       "shortForecast": "Light Rain then Rain Showers Likely",
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Partly cloudy, with a low around 32.",
+      "detailedForecast": "Partly cloudy, with a low around 32. North wind around 0 mph.",
       "endTime": "2026-11-03T06:00:00-08:00",
       "name": "Monday Night",
       "shortForecast": "Partly Cloudy",
@@ -126,44 +117,49 @@
       "startTime": "2026-11-06T18:00:00-08:00",
       "temperature": 32,
       "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Sunny, with a high near 58.",
+      "endTime": "2026-11-07T18:00:00-08:00",
+      "name": "Saturday",
+      "shortForecast": "Sunny",
+      "startTime": "2026-11-07T06:00:00-08:00",
+      "temperature": 58,
+      "temperatureUnit": "F"
     }
   ],
-  "forecast_updated_at": "2026-10-31T20:38:08+00:00",
+  "forecast_updated_at": "2026-11-01T00:56:33+00:00",
   "grid": {
     "probabilityOfPrecipitation": {
       "unit": "wmoUnit:percent",
       "values": [
-        [
-          "2026-10-31T14:00:00+00:00/PT4H",
-          0
-        ],
         [
           "2026-10-31T18:00:00+00:00/PT6H",
           17
         ],
         [
           "2026-11-01T00:00:00+00:00/PT6H",
-          77
+          71
         ],
         [
           "2026-11-01T06:00:00+00:00/PT6H",
-          96
+          90
         ],
         [
           "2026-11-01T12:00:00+00:00/PT6H",
-          88
+          77
         ],
         [
           "2026-11-01T18:00:00+00:00/PT6H",
-          56
+          64
         ],
         [
           "2026-11-02T00:00:00+00:00/PT6H",
-          22
+          24
         ],
         [
           "2026-11-02T06:00:00+00:00/PT6H",
-          1
+          4
         ],
         [
           "2026-11-02T12:00:00+00:00/P5DT18H",
@@ -175,10 +171,6 @@
       "unit": "wmoUnit:mm",
       "values": [
         [
-          "2026-10-31T14:00:00+00:00/PT4H",
-          0
-        ],
-        [
           "2026-10-31T18:00:00+00:00/PT6H",
           0.508
         ],
@@ -188,15 +180,15 @@
         ],
         [
           "2026-11-01T06:00:00+00:00/PT6H",
-          6.096
+          4.572
         ],
         [
           "2026-11-01T12:00:00+00:00/PT6H",
-          5.334
+          3.556
         ],
         [
           "2026-11-01T18:00:00+00:00/PT6H",
-          2.286
+          3.81
         ],
         [
           "2026-11-02T00:00:00+00:00/PT6H",
@@ -303,14 +295,6 @@
     "snowLevel": {
       "unit": "wmoUnit:m",
       "values": [
-        [
-          "2026-10-31T14:00:00+00:00/PT1H",
-          2335.6824
-        ],
-        [
-          "2026-10-31T15:00:00+00:00/PT3H",
-          2471.928
-        ],
         [
           "2026-10-31T18:00:00+00:00/PT3H",
           2671.8768
@@ -533,10 +517,6 @@
       "unit": "wmoUnit:mm",
       "values": [
         [
-          "2026-10-31T14:00:00+00:00/PT4H",
-          0
-        ],
-        [
           "2026-10-31T18:00:00+00:00/PT6H",
           0
         ],
@@ -657,18 +637,6 @@
     "temperature": {
       "unit": "wmoUnit:degC",
       "values": [
-        [
-          "2026-10-31T14:00:00+00:00/PT2H",
-          0
-        ],
-        [
-          "2026-10-31T16:00:00+00:00/PT1H",
-          3.3333333333333335
-        ],
-        [
-          "2026-10-31T17:00:00+00:00/PT1H",
-          7.777777777777778
-        ],
         [
           "2026-10-31T18:00:00+00:00/PT1H",
           10.555555555555555
@@ -1223,15 +1191,7 @@
       "unit": "wmoUnit:km_h-1",
       "values": [
         [
-          "2026-10-31T14:00:00+00:00/PT2H",
-          18.52
-        ],
-        [
-          "2026-10-31T16:00:00+00:00/PT1H",
-          20.372
-        ],
-        [
-          "2026-10-31T17:00:00+00:00/PT2H",
+          "2026-10-31T18:00:00+00:00/PT1H",
           27.78
         ],
         [
@@ -1531,6 +1491,6 @@
   },
   "grid_elevation_m": 2122.0176,
   "grid_id": "SGX/77,79",
-  "grid_updated_at": "2026-10-31T20:38:08+00:00",
+  "grid_updated_at": "2026-11-01T00:56:33+00:00",
   "zone": "CAZ055"
 }
