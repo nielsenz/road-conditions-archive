@@ -2,11 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "A chance of rain showers before 4pm, then a chance of rain and snow showers. Partly sunny, with a high near 45. Southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible.",
+      "detailedForecast": "A chance of rain showers before 4pm, then a chance of rain and snow showers. Partly sunny, with a high near 45. Southwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible.",
       "endTime": "2026-11-01T18:00:00-08:00",
-      "name": "This Afternoon",
-      "shortForecast": "Chance Rain And Snow Showers",
-      "startTime": "2026-11-01T15:00:00-08:00",
+      "name": "Today",
+      "shortForecast": "Chance Rain Showers then Chance Rain And Snow Showers",
+      "startTime": "2026-11-01T11:00:00-08:00",
       "temperature": 45,
       "temperatureUnit": "F"
     },
