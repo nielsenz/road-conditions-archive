@@ -2,11 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Sunny, with a high near 54. North wind 5 to 10 mph.",
+      "detailedForecast": "Mostly sunny, with a high near 54. North wind around 5 mph.",
       "endTime": "2026-11-02T18:00:00-08:00",
-      "name": "Today",
-      "shortForecast": "Sunny",
-      "startTime": "2026-11-02T11:00:00-08:00",
+      "name": "This Afternoon",
+      "shortForecast": "Mostly Sunny",
+      "startTime": "2026-11-02T17:00:00-08:00",
       "temperature": 54,
       "temperatureUnit": "F"
     },
