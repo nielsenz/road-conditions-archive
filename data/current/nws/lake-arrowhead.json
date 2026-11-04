@@ -2,27 +2,18 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Mostly clear, with a low around 39. South wind around 5 mph.",
-      "endTime": "2026-11-04T06:00:00-08:00",
-      "name": "Overnight",
-      "shortForecast": "Mostly Clear",
-      "startTime": "2026-11-04T00:00:00-08:00",
-      "temperature": 39,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "Sunny, with a high near 54. North wind 0 to 5 mph.",
       "endTime": "2026-11-04T18:00:00-08:00",
-      "name": "Wednesday",
+      "name": "Today",
       "shortForecast": "Sunny",
-      "startTime": "2026-11-04T06:00:00-08:00",
+      "startTime": "2026-11-04T09:00:00-08:00",
       "temperature": 54,
       "temperatureUnit": "F"
     },
     {
       "detailedForecast": "Mostly clear, with a low around 40. North wind 5 to 10 mph.",
       "endTime": "2026-11-05T06:00:00-08:00",
-      "name": "Wednesday Night",
+      "name": "Tonight",
       "shortForecast": "Mostly Clear",
       "startTime": "2026-11-04T18:00:00-08:00",
       "temperature": 40,
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Sunny, with a high near 58.",
+      "detailedForecast": "Sunny, with a high near 58. North wind 5 to 15 mph, with gusts as high as 30 mph.",
       "endTime": "2026-11-06T18:00:00-08:00",
       "name": "Friday",
       "shortForecast": "Sunny",
@@ -126,15 +117,24 @@
       "startTime": "2026-11-10T06:00:00-08:00",
       "temperature": 58,
       "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Mostly clear, with a low around 45.",
+      "endTime": "2026-11-11T06:00:00-08:00",
+      "name": "Tuesday Night",
+      "shortForecast": "Mostly Clear",
+      "startTime": "2026-11-10T18:00:00-08:00",
+      "temperature": 45,
+      "temperatureUnit": "F"
     }
   ],
-  "forecast_updated_at": "2026-11-04T08:39:41+00:00",
+  "forecast_updated_at": "2026-11-04T09:19:46+00:00",
   "grid": {
     "probabilityOfPrecipitation": {
       "unit": "wmoUnit:percent",
       "values": [
         [
-          "2026-11-04T02:00:00+00:00/PT4H",
+          "2026-11-04T03:00:00+00:00/PT3H",
           0
         ],
         [
@@ -171,7 +171,7 @@
       "unit": "wmoUnit:mm",
       "values": [
         [
-          "2026-11-04T02:00:00+00:00/PT4H",
+          "2026-11-04T03:00:00+00:00/PT3H",
           0
         ],
         [
@@ -307,10 +307,6 @@
     "snowLevel": {
       "unit": "wmoUnit:m",
       "values": [
-        [
-          "2026-11-04T02:00:00+00:00/PT1H",
-          2607.8688
-        ],
         [
           "2026-11-04T03:00:00+00:00/PT3H",
           2376.2208
@@ -553,7 +549,7 @@
       "unit": "wmoUnit:mm",
       "values": [
         [
-          "2026-11-04T02:00:00+00:00/PT4H",
+          "2026-11-04T03:00:00+00:00/PT3H",
           0
         ],
         [
@@ -685,10 +681,6 @@
     "temperature": {
       "unit": "wmoUnit:degC",
       "values": [
-        [
-          "2026-11-04T02:00:00+00:00/PT1H",
-          6.666666666666667
-        ],
         [
           "2026-11-04T03:00:00+00:00/PT3H",
           6.111111111111111
@@ -1175,10 +1167,6 @@
       "unit": "wmoUnit:km_h-1",
       "values": [
         [
-          "2026-11-04T02:00:00+00:00/PT1H",
-          25.928
-        ],
-        [
           "2026-11-04T03:00:00+00:00/PT1H",
           31.484
         ],
@@ -1519,6 +1507,6 @@
   },
   "grid_elevation_m": 1665.1224,
   "grid_id": "SGX/67,81",
-  "grid_updated_at": "2026-11-04T08:52:52+00:00",
+  "grid_updated_at": "2026-11-04T09:19:46+00:00",
   "zone": "CAZ055"
 }
