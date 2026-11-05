@@ -2,15 +2,6 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Sunny, with a high near 56. Northeast wind around 5 mph.",
-      "endTime": "2026-11-04T18:00:00-08:00",
-      "name": "This Afternoon",
-      "shortForecast": "Sunny",
-      "startTime": "2026-11-04T14:00:00-08:00",
-      "temperature": 56,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "Mostly clear, with a low around 31. East wind around 5 mph.",
       "endTime": "2026-11-05T06:00:00-08:00",
       "name": "Tonight",
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Clear, with a low around 33.",
+      "detailedForecast": "Clear, with a low around 33. Northeast wind 10 to 15 mph, with gusts as high as 25 mph.",
       "endTime": "2026-11-07T06:00:00-08:00",
       "name": "Friday Night",
       "shortForecast": "Clear",
@@ -125,6 +116,15 @@
       "shortForecast": "Mostly Clear",
       "startTime": "2026-11-10T18:00:00-08:00",
       "temperature": 34,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Sunny, with a high near 58.",
+      "endTime": "2026-11-11T18:00:00-08:00",
+      "name": "Veterans Day",
+      "shortForecast": "Sunny",
+      "startTime": "2026-11-11T06:00:00-08:00",
+      "temperature": 58,
       "temperatureUnit": "F"
     }
   ],
