@@ -2,27 +2,18 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Clear, with a low around 44. Northeast wind around 15 mph, with gusts as high as 30 mph.",
-      "endTime": "2026-11-06T06:00:00-08:00",
-      "name": "Overnight",
-      "shortForecast": "Clear",
-      "startTime": "2026-11-06T03:00:00-08:00",
-      "temperature": 44,
-      "temperatureUnit": "F"
-    },
-    {
-      "detailedForecast": "Sunny, with a high near 55. Northeast wind 15 to 20 mph, with gusts as high as 35 mph.",
+      "detailedForecast": "Sunny, with a high near 55. North wind around 20 mph, with gusts as high as 35 mph.",
       "endTime": "2026-11-06T18:00:00-08:00",
-      "name": "Friday",
+      "name": "Today",
       "shortForecast": "Sunny",
-      "startTime": "2026-11-06T06:00:00-08:00",
+      "startTime": "2026-11-06T09:00:00-08:00",
       "temperature": 55,
       "temperatureUnit": "F"
     },
     {
       "detailedForecast": "Mostly clear, with a low around 43. Northeast wind 15 to 20 mph, with gusts as high as 30 mph.",
       "endTime": "2026-11-07T06:00:00-08:00",
-      "name": "Friday Night",
+      "name": "Tonight",
       "shortForecast": "Mostly Clear",
       "startTime": "2026-11-06T18:00:00-08:00",
       "temperature": 43,
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Sunny, with a high near 61.",
+      "detailedForecast": "Sunny, with a high near 61. Northeast wind 0 to 5 mph.",
       "endTime": "2026-11-08T18:00:00-08:00",
       "name": "Sunday",
       "shortForecast": "Sunny",
@@ -125,6 +116,15 @@
       "shortForecast": "Sunny",
       "startTime": "2026-11-12T06:00:00-08:00",
       "temperature": 56,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Partly cloudy, with a low around 42.",
+      "endTime": "2026-11-13T06:00:00-08:00",
+      "name": "Thursday Night",
+      "shortForecast": "Partly Cloudy",
+      "startTime": "2026-11-12T18:00:00-08:00",
+      "temperature": 42,
       "temperatureUnit": "F"
     }
   ],
