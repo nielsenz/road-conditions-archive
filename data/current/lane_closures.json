@@ -2157,7 +2157,7 @@
       "nearby": "Los Angeles",
       "route": "SR-2",
       "starts_at": "2026-11-07T14:30:00+00:00",
-      "state": "in_effect",
+      "state": "completed",
       "to": "Golden State Freeway, Route 5",
       "total_lanes": "3",
       "type": "Full",

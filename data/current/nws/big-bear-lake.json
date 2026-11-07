@@ -2,25 +2,25 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Sunny, with a high near 60. Northeast wind 10 to 15 mph, with gusts as high as 25 mph.",
+      "detailedForecast": "Sunny, with a high near 60. Northeast wind 5 to 10 mph, with gusts as high as 20 mph.",
       "endTime": "2026-11-07T18:00:00-08:00",
-      "name": "Today",
+      "name": "This Afternoon",
       "shortForecast": "Sunny",
-      "startTime": "2026-11-07T07:00:00-08:00",
+      "startTime": "2026-11-07T14:00:00-08:00",
       "temperature": 60,
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Mostly clear, with a low around 35. Northeast wind around 5 mph.",
+      "detailedForecast": "Clear, with a low around 35. Northeast wind around 5 mph.",
       "endTime": "2026-11-08T06:00:00-08:00",
       "name": "Tonight",
-      "shortForecast": "Mostly Clear",
+      "shortForecast": "Clear",
       "startTime": "2026-11-07T18:00:00-08:00",
       "temperature": 35,
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Sunny, with a high near 63. East wind 5 to 10 mph.",
+      "detailedForecast": "Sunny, with a high near 63. East wind 0 to 10 mph.",
       "endTime": "2026-11-08T18:00:00-08:00",
       "name": "Sunday",
       "shortForecast": "Sunny",
@@ -29,16 +29,16 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Mostly clear, with a low around 36. East wind 0 to 10 mph.",
+      "detailedForecast": "Mostly clear, with a low around 35. East wind 5 to 10 mph.",
       "endTime": "2026-11-09T06:00:00-08:00",
       "name": "Sunday Night",
       "shortForecast": "Mostly Clear",
       "startTime": "2026-11-08T18:00:00-08:00",
-      "temperature": 36,
+      "temperature": 35,
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Sunny, with a high near 63. South wind around 0 mph.",
+      "detailedForecast": "Sunny, with a high near 63. East wind 0 to 5 mph.",
       "endTime": "2026-11-09T18:00:00-08:00",
       "name": "Monday",
       "shortForecast": "Sunny",
@@ -47,12 +47,12 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Mostly clear, with a low around 35.",
+      "detailedForecast": "Mostly clear, with a low around 34.",
       "endTime": "2026-11-10T06:00:00-08:00",
       "name": "Monday Night",
       "shortForecast": "Mostly Clear",
       "startTime": "2026-11-09T18:00:00-08:00",
-      "temperature": 35,
+      "temperature": 34,
       "temperatureUnit": "F"
     },
     {
@@ -65,12 +65,12 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Clear, with a low around 35.",
+      "detailedForecast": "Clear, with a low around 34.",
       "endTime": "2026-11-11T06:00:00-08:00",
       "name": "Tuesday Night",
       "shortForecast": "Clear",
       "startTime": "2026-11-10T18:00:00-08:00",
-      "temperature": 35,
+      "temperature": 34,
       "temperatureUnit": "F"
     },
     {
@@ -83,12 +83,12 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Clear, with a low around 35.",
+      "detailedForecast": "Clear, with a low around 33.",
       "endTime": "2026-11-12T06:00:00-08:00",
       "name": "Wednesday Night",
       "shortForecast": "Clear",
       "startTime": "2026-11-11T18:00:00-08:00",
-      "temperature": 35,
+      "temperature": 33,
       "temperatureUnit": "F"
     },
     {
@@ -101,19 +101,19 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "A slight chance of rain showers between 10pm and 4am. Mostly clear, with a low around 32.",
+      "detailedForecast": "Mostly clear, with a low around 32.",
       "endTime": "2026-11-13T06:00:00-08:00",
       "name": "Thursday Night",
-      "shortForecast": "Slight Chance Rain Showers",
+      "shortForecast": "Mostly Clear",
       "startTime": "2026-11-12T18:00:00-08:00",
       "temperature": 32,
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Sunny, with a high near 56.",
+      "detailedForecast": "Mostly sunny, with a high near 56.",
       "endTime": "2026-11-13T18:00:00-08:00",
       "name": "Friday",
-      "shortForecast": "Sunny",
+      "shortForecast": "Mostly Sunny",
       "startTime": "2026-11-13T06:00:00-08:00",
       "temperature": 56,
       "temperatureUnit": "F"
@@ -128,7 +128,7 @@
       "temperatureUnit": "F"
     }
   ],
-  "forecast_updated_at": "2026-11-07T08:16:48+00:00",
+  "forecast_updated_at": "2026-11-07T19:38:14+00:00",
   "grid": {
     "probabilityOfPrecipitation": {
       "unit": "wmoUnit:percent",
@@ -1539,6 +1539,6 @@
   },
   "grid_elevation_m": 2122.0176,
   "grid_id": "SGX/77,79",
-  "grid_updated_at": "2026-11-07T19:33:46+00:00",
+  "grid_updated_at": "2026-11-07T19:38:14+00:00",
   "zone": "CAZ055"
 }
