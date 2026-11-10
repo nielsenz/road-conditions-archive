@@ -2,20 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Sunny, with a high near 63. Southwest wind 0 to 5 mph.",
-      "endTime": "2026-11-09T18:00:00-08:00",
-      "name": "This Afternoon",
-      "shortForecast": "Sunny",
-      "startTime": "2026-11-09T12:00:00-08:00",
-      "temperature": 63,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "Mostly clear, with a low around 36. East wind around 0 mph.",
       "endTime": "2026-11-10T06:00:00-08:00",
       "name": "Tonight",
       "shortForecast": "Mostly Clear",
-      "startTime": "2026-11-09T18:00:00-08:00",
+      "startTime": "2026-11-09T19:00:00-08:00",
       "temperature": 36,
       "temperatureUnit": "F"
     },
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Mostly clear, with a low around 34.",
+      "detailedForecast": "Mostly clear, with a low around 34. East wind around 0 mph.",
       "endTime": "2026-11-12T06:00:00-08:00",
       "name": "Wednesday Night",
       "shortForecast": "Mostly Clear",
@@ -125,6 +116,15 @@
       "shortForecast": "Chance Rain Showers",
       "startTime": "2026-11-15T18:00:00-08:00",
       "temperature": 29,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "A chance of rain showers before 10am, then a chance of rain and snow showers. Partly sunny, with a high near 48.",
+      "endTime": "2026-11-16T18:00:00-08:00",
+      "name": "Monday",
+      "shortForecast": "Chance Rain And Snow Showers",
+      "startTime": "2026-11-16T06:00:00-08:00",
+      "temperature": 48,
       "temperatureUnit": "F"
     }
   ],
