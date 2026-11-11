@@ -2,27 +2,18 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Clear, with a low around 46. North wind around 5 mph.",
-      "endTime": "2026-11-11T06:00:00-08:00",
-      "name": "Overnight",
-      "shortForecast": "Clear",
-      "startTime": "2026-11-11T02:00:00-08:00",
-      "temperature": 46,
-      "temperatureUnit": "F"
-    },
-    {
-      "detailedForecast": "Sunny, with a high near 63. Northwest wind around 5 mph.",
+      "detailedForecast": "Sunny, with a high near 63. Southwest wind around 5 mph.",
       "endTime": "2026-11-11T18:00:00-08:00",
       "name": "Veterans Day",
       "shortForecast": "Sunny",
-      "startTime": "2026-11-11T06:00:00-08:00",
+      "startTime": "2026-11-11T09:00:00-08:00",
       "temperature": 63,
       "temperatureUnit": "F"
     },
     {
       "detailedForecast": "Clear, with a low around 46. South wind around 5 mph.",
       "endTime": "2026-11-12T06:00:00-08:00",
-      "name": "Wednesday Night",
+      "name": "Tonight",
       "shortForecast": "Clear",
       "startTime": "2026-11-11T18:00:00-08:00",
       "temperature": 46,
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Rain showers likely. Partly sunny, with a high near 48. Chance of precipitation is 70%.",
+      "detailedForecast": "Rain showers likely. Partly sunny, with a high near 48. South wind 5 to 10 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible.",
       "endTime": "2026-11-13T18:00:00-08:00",
       "name": "Friday",
       "shortForecast": "Rain Showers Likely",
@@ -56,7 +47,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Rain showers. Cloudy, with a low around 42.",
+      "detailedForecast": "Rain showers. Cloudy, with a low around 42. Chance of precipitation is 80%.",
       "endTime": "2026-11-14T06:00:00-08:00",
       "name": "Friday Night",
       "shortForecast": "Rain Showers",
@@ -125,6 +116,15 @@
       "shortForecast": "Slight Chance Rain Showers then Mostly Sunny",
       "startTime": "2026-11-17T06:00:00-08:00",
       "temperature": 41,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Partly cloudy, with a low around 32.",
+      "endTime": "2026-11-18T06:00:00-08:00",
+      "name": "Tuesday Night",
+      "shortForecast": "Partly Cloudy",
+      "startTime": "2026-11-17T18:00:00-08:00",
+      "temperature": 32,
       "temperatureUnit": "F"
     }
   ],
