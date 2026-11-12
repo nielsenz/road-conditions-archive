@@ -2,15 +2,6 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Sunny, with a high near 62. Southwest wind around 0 mph.",
-      "endTime": "2026-11-11T18:00:00-08:00",
-      "name": "Veterans Day",
-      "shortForecast": "Sunny",
-      "startTime": "2026-11-11T16:00:00-08:00",
-      "temperature": 62,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "Clear, with a low around 46. South wind 0 to 5 mph.",
       "endTime": "2026-11-12T06:00:00-08:00",
       "name": "Tonight",
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Rain showers. Mostly cloudy, with a low around 39. Chance of precipitation is 80%.",
+      "detailedForecast": "Rain showers. Mostly cloudy, with a low around 39. South wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts between a half and three quarters of an inch possible.",
       "endTime": "2026-11-14T06:00:00-08:00",
       "name": "Friday Night",
       "shortForecast": "Rain Showers",
@@ -56,7 +47,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "A chance of rain showers before 10am. Partly sunny, with a high near 45.",
+      "detailedForecast": "A chance of rain showers before 10am. Partly sunny, with a high near 45. Chance of precipitation is 40%.",
       "endTime": "2026-11-14T18:00:00-08:00",
       "name": "Saturday",
       "shortForecast": "Chance Rain Showers then Partly Sunny",
@@ -125,6 +116,15 @@
       "shortForecast": "Mostly Clear",
       "startTime": "2026-11-17T18:00:00-08:00",
       "temperature": 32,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "A chance of rain showers after 4pm. Mostly sunny, with a high near 44.",
+      "endTime": "2026-11-18T18:00:00-08:00",
+      "name": "Wednesday",
+      "shortForecast": "Mostly Sunny then Chance Rain Showers",
+      "startTime": "2026-11-18T06:00:00-08:00",
+      "temperature": 44,
       "temperatureUnit": "F"
     }
   ],
