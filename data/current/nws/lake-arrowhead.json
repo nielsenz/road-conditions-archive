@@ -2,15 +2,6 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Rain showers likely. Mostly cloudy, with a high near 45. South wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.",
-      "endTime": "2026-11-13T18:00:00-08:00",
-      "name": "This Afternoon",
-      "shortForecast": "Rain Showers Likely",
-      "startTime": "2026-11-13T14:00:00-08:00",
-      "temperature": 45,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "Rain showers. Mostly cloudy, with a low around 40. South wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible.",
       "endTime": "2026-11-14T06:00:00-08:00",
       "name": "Tonight",
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Partly cloudy, with a low around 38.",
+      "detailedForecast": "Partly cloudy, with a low around 38. South wind 0 to 10 mph.",
       "endTime": "2026-11-16T06:00:00-08:00",
       "name": "Sunday Night",
       "shortForecast": "Partly Cloudy",
@@ -56,7 +47,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Rain showers likely after 4pm. Partly sunny, with a high near 46.",
+      "detailedForecast": "Rain showers likely after 4pm. Partly sunny, with a high near 46. Chance of precipitation is 60%.",
       "endTime": "2026-11-16T18:00:00-08:00",
       "name": "Monday",
       "shortForecast": "Partly Sunny then Rain Showers Likely",
@@ -125,6 +116,15 @@
       "shortForecast": "Slight Chance Snow Showers",
       "startTime": "2026-11-19T18:00:00-08:00",
       "temperature": 31,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Mostly sunny, with a high near 40.",
+      "endTime": "2026-11-20T18:00:00-08:00",
+      "name": "Friday",
+      "shortForecast": "Mostly Sunny",
+      "startTime": "2026-11-20T06:00:00-08:00",
+      "temperature": 40,
       "temperatureUnit": "F"
     }
   ],
