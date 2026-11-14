@@ -2,27 +2,18 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Rain showers. Mostly cloudy, with a low around 28. Southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible.",
-      "endTime": "2026-11-14T06:00:00-08:00",
-      "name": "Overnight",
-      "shortForecast": "Rain Showers",
-      "startTime": "2026-11-14T01:00:00-08:00",
-      "temperature": 28,
-      "temperatureUnit": "F"
-    },
-    {
-      "detailedForecast": "A slight chance of rain showers before 10am. Mostly sunny, with a high near 49. Southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
+      "detailedForecast": "A slight chance of rain showers before 10am. Sunny, with a high near 49. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
       "endTime": "2026-11-14T18:00:00-08:00",
-      "name": "Saturday",
-      "shortForecast": "Slight Chance Rain Showers then Mostly Sunny",
-      "startTime": "2026-11-14T06:00:00-08:00",
+      "name": "Today",
+      "shortForecast": "Slight Chance Rain Showers then Sunny",
+      "startTime": "2026-11-14T07:00:00-08:00",
       "temperature": 49,
       "temperatureUnit": "F"
     },
     {
       "detailedForecast": "Mostly clear, with a low around 25. East wind 0 to 5 mph.",
       "endTime": "2026-11-15T06:00:00-08:00",
-      "name": "Saturday Night",
+      "name": "Tonight",
       "shortForecast": "Mostly Clear",
       "startTime": "2026-11-14T18:00:00-08:00",
       "temperature": 25,
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "A chance of rain showers after 4pm. Mostly sunny, with a high near 50. Chance of precipitation is 30%.",
+      "detailedForecast": "A chance of rain showers after 4pm. Mostly sunny, with a high near 50. Southwest wind 0 to 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",
       "endTime": "2026-11-16T18:00:00-08:00",
       "name": "Monday",
       "shortForecast": "Mostly Sunny then Chance Rain Showers",
@@ -56,7 +47,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "A chance of rain showers before 10pm, then rain and snow showers likely. Mostly cloudy, with a low around 24. Little or no snow accumulation expected.",
+      "detailedForecast": "A chance of rain showers before 10pm, then rain and snow showers likely. Mostly cloudy, with a low around 24. Chance of precipitation is 60%. Little or no snow accumulation expected.",
       "endTime": "2026-11-17T06:00:00-08:00",
       "name": "Monday Night",
       "shortForecast": "Rain And Snow Showers Likely",
@@ -125,6 +116,15 @@
       "shortForecast": "Slight Chance Snow Showers",
       "startTime": "2026-11-20T06:00:00-08:00",
       "temperature": 41,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Mostly clear, with a low around 17.",
+      "endTime": "2026-11-21T06:00:00-08:00",
+      "name": "Friday Night",
+      "shortForecast": "Mostly Clear",
+      "startTime": "2026-11-20T18:00:00-08:00",
+      "temperature": 17,
       "temperatureUnit": "F"
     }
   ],
