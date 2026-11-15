@@ -2,11 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Sunny, with a high near 49. South wind around 5 mph.",
+      "detailedForecast": "Sunny, with a high near 49. Southwest wind around 5 mph.",
       "endTime": "2026-11-14T18:00:00-08:00",
-      "name": "This Afternoon",
+      "name": "Today",
       "shortForecast": "Sunny",
-      "startTime": "2026-11-14T12:00:00-08:00",
+      "startTime": "2026-11-14T10:00:00-08:00",
       "temperature": 49,
       "temperatureUnit": "F"
     },

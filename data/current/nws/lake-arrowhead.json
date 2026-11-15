@@ -4,9 +4,9 @@
     {
       "detailedForecast": "Sunny, with a high near 45. South wind 5 to 10 mph.",
       "endTime": "2026-11-14T18:00:00-08:00",
-      "name": "This Afternoon",
+      "name": "Today",
       "shortForecast": "Sunny",
-      "startTime": "2026-11-14T12:00:00-08:00",
+      "startTime": "2026-11-14T10:00:00-08:00",
       "temperature": 45,
       "temperatureUnit": "F"
     },
