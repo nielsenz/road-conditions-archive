@@ -2,27 +2,18 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Mostly cloudy, with a low around 40. South wind 5 to 10 mph.",
-      "endTime": "2026-11-16T06:00:00-08:00",
-      "name": "Overnight",
-      "shortForecast": "Mostly Cloudy",
-      "startTime": "2026-11-16T02:00:00-08:00",
-      "temperature": 40,
-      "temperatureUnit": "F"
-    },
-    {
-      "detailedForecast": "Rain showers likely after 10am. Partly sunny, with a high near 49. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.",
+      "detailedForecast": "Rain showers likely. Partly sunny, with a high near 49. South wind around 10 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.",
       "endTime": "2026-11-16T18:00:00-08:00",
-      "name": "Monday",
+      "name": "This Afternoon",
       "shortForecast": "Rain Showers Likely",
-      "startTime": "2026-11-16T06:00:00-08:00",
+      "startTime": "2026-11-16T12:00:00-08:00",
       "temperature": 49,
       "temperatureUnit": "F"
     },
     {
       "detailedForecast": "Rain showers likely. Mostly cloudy, with a low around 37. South wind 0 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 70%. New rainfall amounts between a half and three quarters of an inch possible.",
       "endTime": "2026-11-17T06:00:00-08:00",
-      "name": "Monday Night",
+      "name": "Tonight",
       "shortForecast": "Rain Showers Likely",
       "startTime": "2026-11-16T18:00:00-08:00",
       "temperature": 37,
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Mostly sunny, with a high near 42.",
+      "detailedForecast": "Mostly sunny, with a high near 42. South wind around 5 mph.",
       "endTime": "2026-11-18T18:00:00-08:00",
       "name": "Wednesday",
       "shortForecast": "Mostly Sunny",
@@ -56,7 +47,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Rain showers after 4am. Mostly cloudy, with a low around 36.",
+      "detailedForecast": "Rain showers after 4am. Mostly cloudy, with a low around 36. Chance of precipitation is 80%.",
       "endTime": "2026-11-19T06:00:00-08:00",
       "name": "Wednesday Night",
       "shortForecast": "Mostly Cloudy then Rain Showers",
@@ -125,6 +116,15 @@
       "shortForecast": "Mostly Sunny then Slight Chance Rain Showers",
       "startTime": "2026-11-22T06:00:00-08:00",
       "temperature": 43,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "A slight chance of rain showers before 4am. Partly cloudy, with a low around 34.",
+      "endTime": "2026-11-23T06:00:00-08:00",
+      "name": "Sunday Night",
+      "shortForecast": "Slight Chance Rain Showers",
+      "startTime": "2026-11-22T18:00:00-08:00",
+      "temperature": 34,
       "temperatureUnit": "F"
     }
   ],
