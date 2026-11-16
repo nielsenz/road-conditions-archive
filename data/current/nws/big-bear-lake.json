@@ -2,15 +2,6 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Mostly sunny, with a high near 55. Southwest wind 0 to 5 mph.",
-      "endTime": "2026-11-15T18:00:00-08:00",
-      "name": "This Afternoon",
-      "shortForecast": "Mostly Sunny",
-      "startTime": "2026-11-15T15:00:00-08:00",
-      "temperature": 55,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "Partly cloudy, with a low around 27. Southwest wind 0 to 5 mph.",
       "endTime": "2026-11-16T06:00:00-08:00",
       "name": "Tonight",
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Mostly clear, with a low around 19.",
+      "detailedForecast": "Mostly clear, with a low around 19. Southwest wind 0 to 5 mph.",
       "endTime": "2026-11-18T06:00:00-08:00",
       "name": "Tuesday Night",
       "shortForecast": "Mostly Clear",
@@ -125,6 +116,15 @@
       "shortForecast": "Mostly Clear",
       "startTime": "2026-11-21T18:00:00-08:00",
       "temperature": 19,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Sunny, with a high near 48.",
+      "endTime": "2026-11-22T18:00:00-08:00",
+      "name": "Sunday",
+      "shortForecast": "Sunny",
+      "startTime": "2026-11-22T06:00:00-08:00",
+      "temperature": 48,
       "temperatureUnit": "F"
     }
   ],
