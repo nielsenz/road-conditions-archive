@@ -1,25 +1,16 @@
 {
   "alerts": [
     {
-      "ends": "2026-11-19T00:00:00-08:00",
+      "ends": "2026-11-19T16:00:00-08:00",
       "event": "Wind Advisory",
       "expires": "2026-11-17T22:15:00-08:00",
-      "headline": "Wind Advisory issued November 17 at 11:20AM PST until November 19 at 12:00AM PST by NWS San Diego CA",
-      "id": "urn:oid:2.49.0.1.840.0.46559cb1fe846b35140ad1822516c210c296516d.001.1",
+      "headline": "Wind Advisory issued November 17 at 2:04PM PST until November 19 at 4:00PM PST by NWS San Diego CA",
+      "id": "urn:oid:2.49.0.1.840.0.cd8a6edece407f09cdeebbd1edea2eb2bae81e69.001.1",
       "onset": "2026-11-18T23:00:00-08:00",
       "severity": "Moderate"
     }
   ],
   "forecast": [
-    {
-      "detailedForecast": "Sunny, with a high near 41. South wind 5 to 10 mph.",
-      "endTime": "2026-11-17T18:00:00-08:00",
-      "name": "This Afternoon",
-      "shortForecast": "Sunny",
-      "startTime": "2026-11-17T12:00:00-08:00",
-      "temperature": 41,
-      "temperatureUnit": "F"
-    },
     {
       "detailedForecast": "Mostly clear, with a low around 33. South wind 5 to 10 mph.",
       "endTime": "2026-11-18T06:00:00-08:00",
@@ -57,7 +48,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Rain showers likely before 10pm, then a slight chance of rain and snow showers between 10pm and 4am. Mostly cloudy, with a low around 33. Chance of precipitation is 70%.",
+      "detailedForecast": "Rain showers likely before 10pm, then a slight chance of rain and snow showers between 10pm and 4am. Mostly cloudy, with a low around 33. South wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.",
       "endTime": "2026-11-20T06:00:00-08:00",
       "name": "Thursday Night",
       "shortForecast": "Slight Chance Rain And Snow Showers",
@@ -136,15 +127,24 @@
       "startTime": "2026-11-23T18:00:00-08:00",
       "temperature": 33,
       "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "A slight chance of rain showers after 4pm. Mostly sunny, with a high near 44.",
+      "endTime": "2026-11-24T18:00:00-08:00",
+      "name": "Tuesday",
+      "shortForecast": "Mostly Sunny then Slight Chance Rain Showers",
+      "startTime": "2026-11-24T06:00:00-08:00",
+      "temperature": 44,
+      "temperatureUnit": "F"
     }
   ],
-  "forecast_updated_at": "2026-11-17T20:18:33+00:00",
+  "forecast_updated_at": "2026-11-17T21:03:44+00:00",
   "grid": {
     "probabilityOfPrecipitation": {
       "unit": "wmoUnit:percent",
       "values": [
         [
-          "2026-11-17T14:00:00+00:00/PT4H",
+          "2026-11-17T15:00:00+00:00/PT3H",
           17
         ],
         [
@@ -225,7 +225,7 @@
       "unit": "wmoUnit:mm",
       "values": [
         [
-          "2026-11-17T14:00:00+00:00/PT4H",
+          "2026-11-17T15:00:00+00:00/PT3H",
           0
         ],
         [
@@ -353,10 +353,6 @@
     "snowLevel": {
       "unit": "wmoUnit:m",
       "values": [
-        [
-          "2026-11-17T14:00:00+00:00/PT1H",
-          1839.7728
-        ],
         [
           "2026-11-17T15:00:00+00:00/PT3H",
           1776.984
@@ -587,7 +583,7 @@
       "unit": "wmoUnit:mm",
       "values": [
         [
-          "2026-11-17T14:00:00+00:00/PT4H",
+          "2026-11-17T15:00:00+00:00/PT3H",
           0
         ],
         [
@@ -712,7 +708,7 @@
       "unit": "wmoUnit:degC",
       "values": [
         [
-          "2026-11-17T14:00:00+00:00/PT2H",
+          "2026-11-17T15:00:00+00:00/PT1H",
           2.2222222222222223
         ],
         [
@@ -1069,10 +1065,6 @@
       "unit": "wmoUnit:km_h-1",
       "values": [
         [
-          "2026-11-17T14:00:00+00:00/PT1H",
-          29.632
-        ],
-        [
           "2026-11-17T15:00:00+00:00/PT1H",
           20.372
         ],
@@ -1381,6 +1373,6 @@
   },
   "grid_elevation_m": 1665.1224,
   "grid_id": "SGX/67,81",
-  "grid_updated_at": "2026-11-17T20:18:33+00:00",
+  "grid_updated_at": "2026-11-17T21:03:44+00:00",
   "zone": "CAZ055"
 }
