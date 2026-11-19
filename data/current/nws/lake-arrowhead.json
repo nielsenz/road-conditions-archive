@@ -12,11 +12,11 @@
   ],
   "forecast": [
     {
-      "detailedForecast": "Sunny, with a high near 44. South wind 10 to 15 mph, with gusts as high as 25 mph.",
+      "detailedForecast": "Mostly sunny, with a high near 44. South wind around 15 mph, with gusts as high as 25 mph.",
       "endTime": "2026-11-18T18:00:00-08:00",
-      "name": "Today",
-      "shortForecast": "Sunny",
-      "startTime": "2026-11-18T11:00:00-08:00",
+      "name": "This Afternoon",
+      "shortForecast": "Mostly Sunny",
+      "startTime": "2026-11-18T17:00:00-08:00",
       "temperature": 44,
       "temperatureUnit": "F"
     },
@@ -138,13 +138,13 @@
       "temperatureUnit": "F"
     }
   ],
-  "forecast_updated_at": "2026-11-18T18:26:09+00:00",
+  "forecast_updated_at": "2026-11-18T21:04:31+00:00",
   "grid": {
     "probabilityOfPrecipitation": {
       "unit": "wmoUnit:percent",
       "values": [
         [
-          "2026-11-18T12:00:00+00:00/PT12H",
+          "2026-11-18T15:00:00+00:00/PT9H",
           0
         ],
         [
@@ -233,7 +233,7 @@
       "unit": "wmoUnit:mm",
       "values": [
         [
-          "2026-11-18T12:00:00+00:00/PT6H",
+          "2026-11-18T15:00:00+00:00/PT3H",
           0
         ],
         [
@@ -361,10 +361,6 @@
     "snowLevel": {
       "unit": "wmoUnit:m",
       "values": [
-        [
-          "2026-11-18T12:00:00+00:00/PT3H",
-          1527.9624
-        ],
         [
           "2026-11-18T15:00:00+00:00/PT3H",
           1640.1288
@@ -591,7 +587,7 @@
       "unit": "wmoUnit:mm",
       "values": [
         [
-          "2026-11-18T12:00:00+00:00/PT6H",
+          "2026-11-18T15:00:00+00:00/PT3H",
           0
         ],
         [
@@ -715,10 +711,6 @@
     "temperature": {
       "unit": "wmoUnit:degC",
       "values": [
-        [
-          "2026-11-18T12:00:00+00:00/PT3H",
-          2.2222222222222223
-        ],
         [
           "2026-11-18T15:00:00+00:00/PT1H",
           2.7777777777777777
@@ -1089,18 +1081,6 @@
       "unit": "wmoUnit:km_h-1",
       "values": [
         [
-          "2026-11-18T12:00:00+00:00/PT1H",
-          20.372
-        ],
-        [
-          "2026-11-18T13:00:00+00:00/PT1H",
-          24.076
-        ],
-        [
-          "2026-11-18T14:00:00+00:00/PT1H",
-          25.928
-        ],
-        [
           "2026-11-18T15:00:00+00:00/PT1H",
           20.372
         ],
@@ -1397,6 +1377,6 @@
   },
   "grid_elevation_m": 1665.1224,
   "grid_id": "SGX/67,81",
-  "grid_updated_at": "2026-11-18T18:26:09+00:00",
+  "grid_updated_at": "2026-11-18T21:04:31+00:00",
   "zone": "CAZ055"
 }
