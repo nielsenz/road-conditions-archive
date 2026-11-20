@@ -1,31 +1,12 @@
 {
-  "alerts": [
-    {
-      "ends": "2026-11-19T16:00:00-08:00",
-      "event": "Wind Advisory",
-      "expires": "2026-11-19T16:45:00-08:00",
-      "headline": "Wind Advisory issued November 19 at 3:41PM PST until November 19 at 4:00PM PST by NWS San Diego CA",
-      "id": "urn:oid:2.49.0.1.840.0.0a5831be2bd20b213698a52f264145653685bfd3.001.1",
-      "onset": "2026-11-19T15:41:00-08:00",
-      "severity": "Moderate"
-    }
-  ],
+  "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Rain showers before 4pm, then rain and snow showers likely. Cloudy, with a high near 42. Southwest wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. Little or no snow accumulation expected.",
-      "endTime": "2026-11-19T18:00:00-08:00",
-      "name": "This Afternoon",
-      "shortForecast": "Rain And Snow Showers Likely",
-      "startTime": "2026-11-19T14:00:00-08:00",
-      "temperature": 42,
-      "temperatureUnit": "F"
-    },
-    {
-      "detailedForecast": "Rain and snow showers likely before 10pm. Partly cloudy, with a low around 23. Southwest wind 5 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 60%. Little or no snow accumulation expected.",
+      "detailedForecast": "Snow showers likely before 10pm. Partly cloudy, with a low around 23. Southwest wind 5 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 60%. Little or no snow accumulation expected.",
       "endTime": "2026-11-20T06:00:00-08:00",
       "name": "Tonight",
-      "shortForecast": "Rain And Snow Showers Likely then Partly Cloudy",
-      "startTime": "2026-11-19T18:00:00-08:00",
+      "shortForecast": "Snow Showers Likely then Partly Cloudy",
+      "startTime": "2026-11-19T20:00:00-08:00",
       "temperature": 23,
       "temperatureUnit": "F"
     },
@@ -57,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Partly cloudy, with a low around 19.",
+      "detailedForecast": "Partly cloudy, with a low around 19. South wind around 0 mph.",
       "endTime": "2026-11-22T06:00:00-08:00",
       "name": "Saturday Night",
       "shortForecast": "Partly Cloudy",
@@ -135,6 +116,15 @@
       "shortForecast": "Partly Cloudy",
       "startTime": "2026-11-25T18:00:00-08:00",
       "temperature": 26,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Sunny, with a high near 53.",
+      "endTime": "2026-11-26T18:00:00-08:00",
+      "name": "Thanksgiving Day",
+      "shortForecast": "Sunny",
+      "startTime": "2026-11-26T06:00:00-08:00",
+      "temperature": 53,
       "temperatureUnit": "F"
     }
   ],
