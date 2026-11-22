@@ -2,11 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Mostly sunny, with a high near 44. Southwest wind around 0 mph.",
+      "detailedForecast": "Mostly sunny, with a high near 44. Wind around 0 mph.",
       "endTime": "2026-11-21T18:00:00-08:00",
       "name": "This Afternoon",
       "shortForecast": "Mostly Sunny",
-      "startTime": "2026-11-21T14:00:00-08:00",
+      "startTime": "2026-11-21T16:00:00-08:00",
       "temperature": 44,
       "temperatureUnit": "F"
     },
@@ -20,16 +20,16 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "A slight chance of rain showers after 4pm. Partly sunny, with a high near 43. South wind 0 to 5 mph. Chance of precipitation is 20%.",
+      "detailedForecast": "Partly sunny, with a high near 43. South wind 0 to 5 mph.",
       "endTime": "2026-11-22T18:00:00-08:00",
       "name": "Sunday",
-      "shortForecast": "Partly Sunny then Slight Chance Rain Showers",
+      "shortForecast": "Partly Sunny",
       "startTime": "2026-11-22T06:00:00-08:00",
       "temperature": 43,
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "A slight chance of rain showers before 4am. Mostly cloudy, with a low around 34. Southeast wind around 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
+      "detailedForecast": "A slight chance of rain showers between 10pm and 4am. Mostly cloudy, with a low around 34. Southeast wind around 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
       "endTime": "2026-11-23T06:00:00-08:00",
       "name": "Sunday Night",
       "shortForecast": "Slight Chance Rain Showers",
@@ -128,22 +128,22 @@
       "temperatureUnit": "F"
     }
   ],
-  "forecast_updated_at": "2026-11-21T18:20:25+00:00",
+  "forecast_updated_at": "2026-11-21T23:04:35+00:00",
   "grid": {
     "probabilityOfPrecipitation": {
       "unit": "wmoUnit:percent",
       "values": [
         [
-          "2026-11-21T12:00:00+00:00/P1DT12H",
+          "2026-11-21T17:00:00+00:00/P1DT7H",
           0
         ],
         [
           "2026-11-23T00:00:00+00:00/PT6H",
-          15
+          13
         ],
         [
           "2026-11-23T06:00:00+00:00/PT6H",
-          21
+          16
         ],
         [
           "2026-11-23T12:00:00+00:00/P2D",
@@ -183,7 +183,7 @@
       "unit": "wmoUnit:mm",
       "values": [
         [
-          "2026-11-21T12:00:00+00:00/PT6H",
+          "2026-11-21T17:00:00+00:00/PT1H",
           0
         ],
         [
@@ -312,11 +312,7 @@
       "unit": "wmoUnit:m",
       "values": [
         [
-          "2026-11-21T12:00:00+00:00/PT3H",
-          1279.8552
-        ],
-        [
-          "2026-11-21T15:00:00+00:00/PT3H",
+          "2026-11-21T17:00:00+00:00/PT1H",
           1383.792
         ],
         [
@@ -545,7 +541,7 @@
       "unit": "wmoUnit:mm",
       "values": [
         [
-          "2026-11-21T12:00:00+00:00/PT6H",
+          "2026-11-21T17:00:00+00:00/PT1H",
           0
         ],
         [
@@ -669,14 +665,6 @@
     "temperature": {
       "unit": "wmoUnit:degC",
       "values": [
-        [
-          "2026-11-21T12:00:00+00:00/PT4H",
-          -1.1111111111111112
-        ],
-        [
-          "2026-11-21T16:00:00+00:00/PT1H",
-          0.5555555555555556
-        ],
         [
           "2026-11-21T17:00:00+00:00/PT1H",
           2.7777777777777777
@@ -1067,26 +1055,6 @@
       "unit": "wmoUnit:km_h-1",
       "values": [
         [
-          "2026-11-21T12:00:00+00:00/PT1H",
-          29.632
-        ],
-        [
-          "2026-11-21T13:00:00+00:00/PT1H",
-          33.336
-        ],
-        [
-          "2026-11-21T14:00:00+00:00/PT1H",
-          37.04
-        ],
-        [
-          "2026-11-21T15:00:00+00:00/PT1H",
-          29.632
-        ],
-        [
-          "2026-11-21T16:00:00+00:00/PT1H",
-          24.076
-        ],
-        [
           "2026-11-21T17:00:00+00:00/PT1H",
           18.52
         ],
@@ -1359,6 +1327,6 @@
   },
   "grid_elevation_m": 1665.1224,
   "grid_id": "SGX/67,81",
-  "grid_updated_at": "2026-11-21T18:20:25+00:00",
+  "grid_updated_at": "2026-11-21T23:04:35+00:00",
   "zone": "CAZ055"
 }
