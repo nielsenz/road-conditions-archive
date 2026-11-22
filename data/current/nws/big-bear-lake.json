@@ -2,27 +2,18 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Mostly cloudy, with a low around 27. South wind 0 to 5 mph.",
-      "endTime": "2026-11-22T06:00:00-08:00",
-      "name": "Overnight",
-      "shortForecast": "Mostly Cloudy",
-      "startTime": "2026-11-22T00:00:00-08:00",
-      "temperature": 27,
-      "temperatureUnit": "F"
-    },
-    {
-      "detailedForecast": "Partly sunny, with a high near 46. South wind 0 to 5 mph.",
+      "detailedForecast": "Partly sunny, with a high near 46. Southwest wind 0 to 5 mph.",
       "endTime": "2026-11-22T18:00:00-08:00",
-      "name": "Sunday",
+      "name": "Today",
       "shortForecast": "Partly Sunny",
-      "startTime": "2026-11-22T06:00:00-08:00",
+      "startTime": "2026-11-22T07:00:00-08:00",
       "temperature": 46,
       "temperatureUnit": "F"
     },
     {
       "detailedForecast": "A slight chance of snow showers between 10pm and 4am. Mostly cloudy, with a low around 28. Southwest wind 0 to 10 mph. Chance of precipitation is 20%.",
       "endTime": "2026-11-23T06:00:00-08:00",
-      "name": "Sunday Night",
+      "name": "Tonight",
       "shortForecast": "Slight Chance Snow Showers",
       "startTime": "2026-11-22T18:00:00-08:00",
       "temperature": 28,
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Mostly sunny, with a high near 53.",
+      "detailedForecast": "Mostly sunny, with a high near 53. Northeast wind 0 to 5 mph.",
       "endTime": "2026-11-24T18:00:00-08:00",
       "name": "Tuesday",
       "shortForecast": "Mostly Sunny",
@@ -125,6 +116,15 @@
       "shortForecast": "Mostly Sunny",
       "startTime": "2026-11-28T06:00:00-08:00",
       "temperature": 57,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "A slight chance of rain showers after 4am. Partly cloudy, with a low around 29.",
+      "endTime": "2026-11-29T06:00:00-08:00",
+      "name": "Saturday Night",
+      "shortForecast": "Partly Cloudy then Slight Chance Rain Showers",
+      "startTime": "2026-11-28T18:00:00-08:00",
+      "temperature": 29,
       "temperatureUnit": "F"
     }
   ],

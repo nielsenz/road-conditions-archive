@@ -2,27 +2,18 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Mostly cloudy, with a low around 35. South wind around 5 mph.",
-      "endTime": "2026-11-22T06:00:00-08:00",
-      "name": "Overnight",
-      "shortForecast": "Mostly Cloudy",
-      "startTime": "2026-11-22T00:00:00-08:00",
-      "temperature": 35,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "Partly sunny, with a high near 42. South wind 5 to 10 mph.",
       "endTime": "2026-11-22T18:00:00-08:00",
-      "name": "Sunday",
+      "name": "Today",
       "shortForecast": "Partly Sunny",
-      "startTime": "2026-11-22T06:00:00-08:00",
+      "startTime": "2026-11-22T08:00:00-08:00",
       "temperature": 42,
       "temperatureUnit": "F"
     },
     {
       "detailedForecast": "A slight chance of rain showers between 10pm and 1am, then a slight chance of rain and snow showers between 1am and 4am. Mostly cloudy, with a low around 32. South wind 5 to 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
       "endTime": "2026-11-23T06:00:00-08:00",
-      "name": "Sunday Night",
+      "name": "Tonight",
       "shortForecast": "Slight Chance Rain Showers then Slight Chance Rain And Snow Showers",
       "startTime": "2026-11-22T18:00:00-08:00",
       "temperature": 32,
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Mostly sunny, with a high near 50.",
+      "detailedForecast": "Mostly sunny, with a high near 50. North wind 0 to 5 mph.",
       "endTime": "2026-11-24T18:00:00-08:00",
       "name": "Tuesday",
       "shortForecast": "Mostly Sunny",
@@ -125,6 +116,15 @@
       "shortForecast": "Mostly Sunny then Slight Chance Rain Showers",
       "startTime": "2026-11-28T06:00:00-08:00",
       "temperature": 54,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "A chance of rain showers. Partly cloudy, with a low around 40.",
+      "endTime": "2026-11-29T06:00:00-08:00",
+      "name": "Saturday Night",
+      "shortForecast": "Chance Rain Showers",
+      "startTime": "2026-11-28T18:00:00-08:00",
+      "temperature": 40,
       "temperatureUnit": "F"
     }
   ],
