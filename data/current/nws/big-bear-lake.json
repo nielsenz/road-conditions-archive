@@ -2,15 +2,6 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Mostly sunny, with a high near 52. South wind around 0 mph.",
-      "endTime": "2026-11-24T18:00:00-08:00",
-      "name": "Today",
-      "shortForecast": "Mostly Sunny",
-      "startTime": "2026-11-24T11:00:00-08:00",
-      "temperature": 52,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "Mostly cloudy, with a low around 29. East wind 0 to 5 mph.",
       "endTime": "2026-11-25T06:00:00-08:00",
       "name": "Tonight",
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Mostly clear, with a low around 34.",
+      "detailedForecast": "Mostly clear, with a low around 34. Northeast wind 5 to 10 mph.",
       "endTime": "2026-11-27T06:00:00-08:00",
       "name": "Thursday Night",
       "shortForecast": "Mostly Clear",
@@ -126,9 +117,18 @@
       "startTime": "2026-11-30T18:00:00-08:00",
       "temperature": 29,
       "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Rain and snow showers. Mostly cloudy, with a high near 48. New snow accumulation of less than half an inch possible.",
+      "endTime": "2026-12-01T18:00:00-08:00",
+      "name": "Tuesday",
+      "shortForecast": "Rain And Snow Showers",
+      "startTime": "2026-12-01T06:00:00-08:00",
+      "temperature": 48,
+      "temperatureUnit": "F"
     }
   ],
-  "forecast_updated_at": "2026-11-24T18:49:50+00:00",
+  "forecast_updated_at": "2026-11-24T20:06:25+00:00",
   "grid": {
     "probabilityOfPrecipitation": {
       "unit": "wmoUnit:percent",
