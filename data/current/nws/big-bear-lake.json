@@ -2,20 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Partly sunny, with a high near 55. East wind 5 to 10 mph.",
-      "endTime": "2026-11-25T18:00:00-08:00",
-      "name": "This Afternoon",
-      "shortForecast": "Partly Sunny",
-      "startTime": "2026-11-25T13:00:00-08:00",
-      "temperature": 55,
-      "temperatureUnit": "F"
-    },
-    {
-      "detailedForecast": "Mostly clear, with a low around 30. Northeast wind around 10 mph.",
+      "detailedForecast": "Clear, with a low around 30. Northeast wind around 10 mph.",
       "endTime": "2026-11-26T06:00:00-08:00",
       "name": "Tonight",
-      "shortForecast": "Mostly Clear",
-      "startTime": "2026-11-25T18:00:00-08:00",
+      "shortForecast": "Clear",
+      "startTime": "2026-11-25T19:00:00-08:00",
       "temperature": 30,
       "temperatureUnit": "F"
     },
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Partly cloudy, with a low around 35.",
+      "detailedForecast": "Partly cloudy, with a low around 35. West wind 0 to 10 mph.",
       "endTime": "2026-11-28T06:00:00-08:00",
       "name": "Friday Night",
       "shortForecast": "Partly Cloudy",
@@ -125,6 +116,15 @@
       "shortForecast": "Rain And Snow Showers",
       "startTime": "2026-12-01T18:00:00-08:00",
       "temperature": 29,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Rain and snow showers likely. Partly sunny, with a high near 46. New snow accumulation of less than half an inch possible.",
+      "endTime": "2026-12-02T18:00:00-08:00",
+      "name": "Wednesday",
+      "shortForecast": "Rain And Snow Showers Likely",
+      "startTime": "2026-12-02T06:00:00-08:00",
+      "temperature": 46,
       "temperatureUnit": "F"
     }
   ],

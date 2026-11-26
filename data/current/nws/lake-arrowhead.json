@@ -2,20 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Mostly sunny, with a high near 50. North wind around 10 mph, with gusts as high as 20 mph.",
-      "endTime": "2026-11-25T18:00:00-08:00",
-      "name": "This Afternoon",
-      "shortForecast": "Mostly Sunny",
-      "startTime": "2026-11-25T14:00:00-08:00",
-      "temperature": 50,
-      "temperatureUnit": "F"
-    },
-    {
-      "detailedForecast": "Mostly clear, with a low around 40. North wind around 10 mph, with gusts as high as 20 mph.",
+      "detailedForecast": "Clear, with a low around 40. North wind around 10 mph, with gusts as high as 20 mph.",
       "endTime": "2026-11-26T06:00:00-08:00",
       "name": "Tonight",
-      "shortForecast": "Mostly Clear",
-      "startTime": "2026-11-25T18:00:00-08:00",
+      "shortForecast": "Clear",
+      "startTime": "2026-11-25T20:00:00-08:00",
       "temperature": 40,
       "temperatureUnit": "F"
     },
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Partly cloudy, with a low around 47.",
+      "detailedForecast": "Partly cloudy, with a low around 47. East wind around 5 mph.",
       "endTime": "2026-11-28T06:00:00-08:00",
       "name": "Friday Night",
       "shortForecast": "Partly Cloudy",
@@ -125,6 +116,15 @@
       "shortForecast": "Rain Showers",
       "startTime": "2026-12-01T18:00:00-08:00",
       "temperature": 39,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "Rain showers likely. Partly sunny, with a high near 43.",
+      "endTime": "2026-12-02T18:00:00-08:00",
+      "name": "Wednesday",
+      "shortForecast": "Rain Showers Likely",
+      "startTime": "2026-12-02T06:00:00-08:00",
+      "temperature": 43,
       "temperatureUnit": "F"
     }
   ],
