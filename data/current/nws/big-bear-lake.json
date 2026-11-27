@@ -2,20 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Sunny, with a high near 62. East wind 0 to 5 mph.",
-      "endTime": "2026-11-26T18:00:00-08:00",
-      "name": "Thanksgiving Day",
-      "shortForecast": "Sunny",
-      "startTime": "2026-11-26T12:00:00-08:00",
-      "temperature": 62,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "Mostly clear, with a low around 27. East wind 0 to 5 mph.",
       "endTime": "2026-11-27T06:00:00-08:00",
       "name": "Tonight",
       "shortForecast": "Mostly Clear",
-      "startTime": "2026-11-26T18:00:00-08:00",
+      "startTime": "2026-11-26T19:00:00-08:00",
       "temperature": 27,
       "temperatureUnit": "F"
     },
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Partly cloudy, with a low around 30.",
+      "detailedForecast": "Partly cloudy, with a low around 30. West wind around 0 mph.",
       "endTime": "2026-11-29T06:00:00-08:00",
       "name": "Saturday Night",
       "shortForecast": "Partly Cloudy",
@@ -125,6 +116,15 @@
       "shortForecast": "Partly Cloudy",
       "startTime": "2026-12-02T18:00:00-08:00",
       "temperature": 25,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "A chance of snow showers after 4pm. Mostly sunny, with a high near 48.",
+      "endTime": "2026-12-03T18:00:00-08:00",
+      "name": "Thursday",
+      "shortForecast": "Mostly Sunny then Chance Snow Showers",
+      "startTime": "2026-12-03T06:00:00-08:00",
+      "temperature": 48,
       "temperatureUnit": "F"
     }
   ],
