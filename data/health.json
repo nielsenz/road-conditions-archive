@@ -5,9 +5,9 @@
     "since": "2026-11-19T01:07:38+00:00"
   },
   "highway_text": {
-    "error": "RemoteDisconnected: Remote end closed connection without response",
-    "ok": false,
-    "since": "2026-11-27T14:38:49+00:00"
+    "error": null,
+    "ok": true,
+    "since": "2026-11-27T22:55:26+00:00"
   },
   "lane_closures": {
     "error": null,
