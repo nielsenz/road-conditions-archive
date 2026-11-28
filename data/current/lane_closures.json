@@ -1681,6 +1681,27 @@
       "work": "AC Paving"
     },
     {
+      "begin_postmile": 44.319,
+      "direction": "East / West",
+      "end_indefinite": false,
+      "end_postmile": 46.4,
+      "ends_at": "2026-11-28T14:01:00+00:00",
+      "estimated_delay": "Not Reported",
+      "from": "Route 38/N Shore Dr",
+      "id": "T18AA-0001-2026-11-27-21:15:00",
+      "lanes_closed": "All",
+      "lat": 34.241966,
+      "lon": -116.978057,
+      "nearby": "Fawnskin",
+      "route": "SR-18",
+      "starts_at": "2026-11-28T05:15:00+00:00",
+      "state": "completed",
+      "to": "Blue Jay Rd",
+      "total_lanes": "2",
+      "type": "Full",
+      "work": "Emergency Work"
+    },
+    {
       "begin_postmile": 3.65,
       "direction": "West",
       "end_indefinite": true,
