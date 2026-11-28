@@ -2,20 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Mostly sunny, with a high near 63. South wind around 5 mph.",
-      "endTime": "2026-11-27T18:00:00-08:00",
-      "name": "This Afternoon",
-      "shortForecast": "Mostly Sunny",
-      "startTime": "2026-11-27T14:00:00-08:00",
-      "temperature": 63,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "Mostly cloudy, with a low around 49. East wind 0 to 5 mph.",
       "endTime": "2026-11-28T06:00:00-08:00",
       "name": "Tonight",
       "shortForecast": "Mostly Cloudy",
-      "startTime": "2026-11-27T18:00:00-08:00",
+      "startTime": "2026-11-27T20:00:00-08:00",
       "temperature": 49,
       "temperatureUnit": "F"
     },
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "A chance of rain showers after 4am. Partly cloudy, with a low around 43.",
+      "detailedForecast": "A chance of rain showers after 4am. Partly cloudy, with a low around 43. South wind 5 to 10 mph.",
       "endTime": "2026-11-30T06:00:00-08:00",
       "name": "Sunday Night",
       "shortForecast": "Partly Cloudy then Chance Rain Showers",
@@ -56,7 +47,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Rain showers likely. Mostly cloudy, with a high near 47.",
+      "detailedForecast": "Rain showers likely. Mostly cloudy, with a high near 47. Chance of precipitation is 60%.",
       "endTime": "2026-11-30T18:00:00-08:00",
       "name": "Monday",
       "shortForecast": "Rain Showers Likely",
@@ -125,6 +116,15 @@
       "shortForecast": "Chance Rain Showers",
       "startTime": "2026-12-03T18:00:00-08:00",
       "temperature": 37,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 42.",
+      "endTime": "2026-12-04T18:00:00-08:00",
+      "name": "Friday",
+      "shortForecast": "Chance Rain Showers",
+      "startTime": "2026-12-04T06:00:00-08:00",
+      "temperature": 42,
       "temperatureUnit": "F"
     }
   ],

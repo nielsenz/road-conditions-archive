@@ -2,20 +2,11 @@
   "alerts": [],
   "forecast": [
     {
-      "detailedForecast": "Mostly sunny, with a high near 66. Southwest wind around 5 mph.",
-      "endTime": "2026-11-27T18:00:00-08:00",
-      "name": "This Afternoon",
-      "shortForecast": "Mostly Sunny",
-      "startTime": "2026-11-27T14:00:00-08:00",
-      "temperature": 66,
-      "temperatureUnit": "F"
-    },
-    {
       "detailedForecast": "Mostly cloudy, with a low around 36. Southwest wind 0 to 5 mph.",
       "endTime": "2026-11-28T06:00:00-08:00",
       "name": "Tonight",
       "shortForecast": "Mostly Cloudy",
-      "startTime": "2026-11-27T18:00:00-08:00",
+      "startTime": "2026-11-27T20:00:00-08:00",
       "temperature": 36,
       "temperatureUnit": "F"
     },
@@ -47,7 +38,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "Mostly clear, with a low around 32.",
+      "detailedForecast": "Mostly clear, with a low around 32. Southwest wind 5 to 10 mph, with gusts as high as 20 mph.",
       "endTime": "2026-11-30T06:00:00-08:00",
       "name": "Sunday Night",
       "shortForecast": "Mostly Clear",
@@ -56,7 +47,7 @@
       "temperatureUnit": "F"
     },
     {
-      "detailedForecast": "A chance of rain showers after 10am. Partly sunny, with a high near 51.",
+      "detailedForecast": "A chance of rain showers after 10am. Partly sunny, with a high near 51. Chance of precipitation is 50%.",
       "endTime": "2026-11-30T18:00:00-08:00",
       "name": "Monday",
       "shortForecast": "Chance Rain Showers",
@@ -125,6 +116,15 @@
       "shortForecast": "Chance Rain And Snow Showers",
       "startTime": "2026-12-03T18:00:00-08:00",
       "temperature": 25,
+      "temperatureUnit": "F"
+    },
+    {
+      "detailedForecast": "A slight chance of snow showers before 10am, then a chance of rain and snow showers. Partly sunny, with a high near 45. Little or no snow accumulation expected.",
+      "endTime": "2026-12-04T18:00:00-08:00",
+      "name": "Friday",
+      "shortForecast": "Chance Rain And Snow Showers",
+      "startTime": "2026-12-04T06:00:00-08:00",
+      "temperature": 45,
       "temperatureUnit": "F"
     }
   ],
